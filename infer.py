@@ -1,4 +1,8 @@
+import warnings
+warnings.filterwarnings("ignore")
+
 import sys
+import time
 
 import matplotlib.pylab as plt
 import scipy
@@ -33,20 +37,39 @@ waveglow.cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
 
-text = "Read loudly, and be a super hero!"
-sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
-sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
+# text = "Read loudly, and be a super hero!"
+# sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
+# sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
 
-# text_list = [
-#     "Read loudly, and be a super hero!",
-#     "Join me to learn some words.",
-# ]
-# sequence_list = [np.array(text_to_sequence(text, ['english_cleaners']))[None, :] for text in text_list]
-# sequence_list = torch.autograd.Variable(torch.from_numpy(sequence_list)).cuda().long()
+text_list = [
+    "Join me to learn some words.",
+    "Tom likes drums",
+    "Tom does not like kites",
+    "Now you try!",
+    "Wow, you matched all of the words!",
+    "Great work reading those words!",
+    "It's time for some vocabulary!",
+    "Hi, Andrew here!",
+    "Let's review what you said",
+    "baseball",
+    "Sorry. I did not hear you. Could you say it louder?",
+    "Hello, Red Beetle",
+    "HIllary and Henry are hiding in their school. Can you find them?",
+]
+for text in text_list:
+    start_time = time.time()
+    sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
+    print("--- text to seq: %s seconds ---" % (time.time() - start_time))
+    start_time = time.time()
 
-mel_outputs, mel_outputs_postnet, _, alignments = model.inference(sequence)
+    sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
+    mel_outputs, mel_outputs_postnet, _, alignments = model.inference(sequence)
+    print("--- tacotron2 %s seconds ---" % (time.time() - start_time))
+    start_time = time.time()
 
-with torch.no_grad():
-    audio = waveglow.infer(mel_outputs_postnet, sigma=0.666)
-data = audio[0].data.cpu().numpy().astype(np.float32)
-scipy.io.wavfile.write('{}.wav'.format('test'), hparams.sampling_rate, data)
+    with torch.no_grad():
+        audio = waveglow.infer(mel_outputs_postnet, sigma=0.666)
+    print("--- waveglow %s seconds ---" % (time.time() - start_time))
+
+    data = audio[0].data.cpu().numpy().astype(np.float32)
+    scipy.io.wavfile.write('output/{}.wav'.format(text), hparams.sampling_rate, data)
