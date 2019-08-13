@@ -1,0 +1,881 @@
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript71568df4-6a16-468f-b2d4-9ba159d916c62019-01-16-13-58-14-audio.m4a.wav|chew
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta888a251-b3b1-4319-b5bc-a88c4983c5882019-01-22-10-08-09-audio.m4a.wav|When -written by Amy Bucher, illustrated by Julia Khitrova
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1c5f7869-7885-4ae5-ac92-874d6e404a4e2019-02-12-11-05-46-audio.m4a.wav|New red clothes. A new haircut.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdb692e31-8601-40b7-b413-685fdd22a2542018-09-11-21-13-34-audio.m4a.wav|Now, let’s read together. If you see a word you don't know, just listen to me!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript89f55af8-d5a1-4f57-b1be-f9a9d78aa5ff2019-01-16-14-37-19-audio.m4a.wav|hippo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfc584079-b152-42b0-b69e-feb19c3adce82019-01-11-15-25-10-audio.m4a.wav|ship
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9f6ad015-1cd7-4560-b838-01bfc27d95232018-09-02-13-54-08-audio.m4a.wav|nail
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc6ddba2f-8f2a-4194-b1f9-905ceaa1eacd2019-01-22-09-56-25-audio.m4a.wav|Jen goes up. Ben goes down?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3ac1f01c-4ff5-4b00-9013-0eccad1549a32018-08-26-14-29-07-audio.m4a.wav|snow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdadb2566-e971-469e-9db9-07180e71c79d2018-09-11-20-44-36-audio.m4a.wav|It's OK! Superhero ... START!!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc629ea46-a85a-4353-9ecd-8aba87189d032018-09-11-20-25-19-audio.m4a.wav|Whooo Whooo!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47b18952-c2e5-4cb3-9248-ec830498acbd2018-08-26-13-23-01-audio.m4a.wav|toy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7c6fa178-40f8-4c40-b785-fd763070a4892018-08-26-14-29-18-audio.m4a.wav|wind
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7b7f728-7500-48e6-bc9c-a1bbdbb4d8d52019-01-11-16-06-13-audio.m4a.wav|spinach
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript49a96b2f-0a34-451b-84ec-df085bd66ab22019-01-16-13-34-18-audio.m4a.wav|awesome
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript867e5a02-0747-4e7a-a412-e5acef39f3dc2018-08-23-21-13-40-audio.m4a.wav|cookie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript16e898b8-a3c8-4269-93c1-9ae7af8b7ca82018-08-26-14-29-23-audio.m4a.wav|cloud
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc8382b36-05e7-4c48-ad87-251fe155a77f2018-09-02-14-26-27-audio.m4a.wav|Are you still there? I cannot see you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc1260478-30b2-4180-82a0-de66040feed32019-01-11-14-08-51-audio.m4a.wav|right
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4456d07f-7fdd-4f9b-9fe2-6000ee2d462e2018-09-02-13-13-12-audio.m4a.wav|Celia
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript27d582c1-e394-47e1-a0db-85c99d9015a22019-01-22-12-14-26-audio.m4a.wav|My mommy likes to work.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript13220b02-a331-4e83-9de4-17d190a4958f2019-01-11-14-48-15-audio.m4a.wav|monster
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6d0d8ba4-545c-4eae-89eb-c2e1c37578572018-08-23-20-57-46-audio.m4a.wav|lunch
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0ad2061f-19e9-4716-b59a-73b444729ca02018-08-26-14-29-34-audio.m4a.wav|door
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdaf0787b-0519-4aa3-8b75-6dbc5e5de8bc2019-01-11-14-06-15-audio.m4a.wav|country
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte8e9291a-a5d3-49e3-a949-d85cb70203282018-08-26-15-09-31-audio.m4a.wav|turn around
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0abfe5f3-e131-4190-8d5e-6070f66e475a2019-01-11-14-33-19-audio.m4a.wav|middle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7eb3a4a5-ebf2-4c1a-81a1-fa70d83fb9852019-01-16-14-48-43-audio.m4a.wav|Ants
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta75c016e-5b73-4529-9b4e-9700a3fef3c92019-01-22-10-57-15-audio.m4a.wav|Welcome to my house!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3109653b-12f1-4002-8e4f-448f7e09560d2019-01-16-13-49-13-audio.m4a.wav|lizard
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5decba13-5b74-4c35-a4a2-431a26097eea2018-08-26-15-41-06-audio.m4a.wav|asleep
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7338ecb7-214a-49fa-a288-1bc22a7bd3da2018-09-11-20-52-50-audio.m4a.wav|Say It Game! Loud voice, Loud voice, loud voice! (get louder)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta9b1646a-9e36-4092-a8a2-8df6fcb7556e2018-09-02-14-34-49-audio.m4a.wav|I
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf4109259-fe1d-4956-aa3d-4738c9f2d7c42018-08-26-13-27-52-audio.m4a.wav|boat
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte5c6dbf4-a946-409f-b2bd-eb0d827e4caa2019-01-11-15-49-00-audio.m4a.wav|lift
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2d9a001a-4076-4f91-9692-d54796a14ef12018-08-26-13-52-28-audio.m4a.wav|babysitter
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript620607b5-e9f9-427f-9f86-537209f425732018-09-02-13-41-21-audio.m4a_truncated.wav|Peter
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript697462c4-7b54-42a4-8212-81d26e247c282019-02-12-10-21-30-audio.m4a.wav|Please choose the picture that is not correct.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript315bcd86-25a8-4d80-94dd-6f331782dd252018-09-11-20-37-10-audio.m4a.wav|In my class please Watch, Listen, use a Loud Voice.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte4bd7fac-4e6e-47b8-9a32-19bb69435fe12018-08-26-14-43-27-audio.m4a.wav|mouse
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3df177fc-daf1-45ab-890e-0f21d197a8692019-01-11-13-57-02-audio.m4a.wav|Ask
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5628cb60-05f8-48e3-81b5-4b9268eeb5982018-08-23-20-00-19-audio.m4a.wav|count
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd6aee65b-c57a-4909-991c-243dd56fe0122019-01-16-15-32-54-audio.m4a.wav|Yoyo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7337130e-6eb2-4c83-bfcd-ecc7addd25742018-08-26-15-33-52-audio.m4a.wav|like
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdc0b6c48-bdbf-43c1-ab60-15981547f05d2019-01-22-11-59-25-audio.m4a.wav|This scarf is itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb8e2579f-fa2e-4fe9-bfe9-c1cefefa937c2019-01-22-11-59-13-audio.m4a.wav|This hat is itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptda83a974-983e-4d3b-a42f-1026f9fb0d9a2019-03-12-15-29-16-audio.m4a.wav|Tom hates the teacup ride.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript816463fb-96d7-43f2-a772-551e08b9a0692019-01-16-15-09-26-audio.m4a.wav|Hippo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptacfdbd47-e6ad-4e81-ae89-42bf841ff4182019-01-22-10-31-51-audio.m4a.wav|My father builds buildings. My mother builds buildings too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript321d32ad-0134-4533-94c0-58eb189726c32018-09-02-14-29-29-audio.m4a.wav_truncated.wav|hi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0303b5ff-b346-4375-9591-4712663def3f2018-08-26-15-45-43-audio.m4a.wav|soft
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript407dc722-243c-4bfa-b247-ea7d5ec06e502018-08-26-15-21-57-audio.m4a.wav|write
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb94d5274-0c42-469e-a879-49afc5b437c62018-08-26-14-05-22-audio.m4a.wav|up
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript829bfc68-7e83-4046-8806-d33956687acd2018-11-20-13-45-29-audio.m4a.wav|Hooray! Sweet words!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta74cb860-4e1c-45a0-9dcf-a4659319b2802018-11-20-14-38-58-audio.m4a.wav|scarf
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript76c108fb-a793-47a4-93f2-016aceff1c542018-09-11-21-10-19-audio.m4a.wav|It's time to try Echo reading. I will read first. You will repeat after me.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta6436ce2-5ff1-454a-83c0-3a286827f2692019-01-16-14-21-05-audio.m4a.wav|pant
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript63120a9c-def8-45c3-b7c0-598d3406987a2019-01-22-11-58-40-audio.m4a.wav|These slippers are itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfb0df094-bece-414a-9a72-93c53026d2ba2019-02-12-10-31-05-audio.m4a.wav|Happy New Year, written by Amy Bucher, illustrated by Tang XIao Shan
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1aec8df9-ebad-4d98-9992-27e2f343f17b2019-01-16-13-16-41-audio.m4a.wav|goat
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0d7b9e0c-73b5-4401-9558-6bfb0e7872b32019-01-16-13-56-30-audio.m4a.wav|stump
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte9930f78-bed8-4e10-bb1b-e808ac5a8f6c2018-09-02-14-43-03-audio.m4a.wav|camping
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript33bd83cd-b8cf-44b9-aede-4cdf040ee7592018-06-24-14-49-33-audio.m4a.wav|Well done!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2c09a0d4-bc95-418e-b7d9-f2dee4ccf86c2018-08-23-19-48-10-audio.m4a.wav|Try your best and be a superhero!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript42a751a9-f5a8-43e2-9d9f-94b7769b60192019-01-11-13-38-55-audio.m4a.wav|Yeah! I like this color!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript71b9eded-cc51-4f58-842b-92be3500338f2018-08-23-20-11-16-audio.m4a.wav|bath
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd481bda8-67e9-46a2-80ec-7ab344a1f23e2018-09-11-20-19-14-audio.m4a.wav|Yeah!!!!! English Class!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf2eb0e24-2719-4d15-bf1e-89f4374c597b2018-09-02-13-19-35-audio.m4a.wav|Leah
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript89af3c81-7339-4005-87c3-51390106671c2019-01-11-13-38-34-audio.m4a.wav|Let's learn the names of clothes!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3bec40f4-c31a-4caa-bed7-137b6542023d2018-08-23-20-23-48-audio.m4a.wav|shirt
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd525c07a-9200-4359-b7b8-a3484a4804f32019-01-11-16-01-25-audio.m4a.wav|piano
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6723accd-a684-44f0-9221-f5b6d3366b452018-08-23-20-16-52-audio.m4a.wav|leg
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript97933a96-0a4a-47ba-8e57-c4fe4297d8f32018-08-23-21-13-45-audio.m4a.wav|cookie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptee6a4be0-b76e-4c89-b1da-4ee608b60af72019-01-16-13-26-20-audio.m4a.wav|toilet paper
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript96a65ab1-12e5-45d2-80a9-f12ffa0708ac2019-02-12-10-21-30-audio.m4a.wav|Please choose the picture that is not correct.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptda82102c-a70b-4770-a2bb-0f54722ff17e2019-01-16-15-32-44-audio.m4a.wav|Yolk
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptffa13dbb-a923-442e-9933-a39db5314ee22018-09-02-14-42-47-audio.m4a.wav|those
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc9885c10-0d6f-4aee-b997-115109677ff92018-08-26-13-32-35-audio.m4a.wav|elephant
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte5e3987d-d7e0-42d5-a194-4f2b42284db02019-02-12-10-41-11-audio.m4a.wav|This bench is smooth.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte55c8336-556b-4b49-bd71-eecedab8e14a2018-09-11-21-30-50-audio.m4a.wav|Oh! It’s a dog...a poodle!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8358a90f-6237-4690-9911-484fe31177482018-11-20-14-05-12-audio.m4a.wav|I'm so happy to see you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6406e7c4-70af-49cc-9598-2e1a7b620c492019-01-16-14-51-33-audio.m4a.wav|Dog
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript69d0eaa1-f344-4f93-a77b-6aa087c7c90f2018-08-26-13-25-30-audio.m4a_truncated.wav|blocks
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2e4366e3-6aec-40f6-b68c-aa0c317164922018-08-26-13-41-09-audio.m4a.wav|puppy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript72608efb-86de-4c7c-848d-f673175caae22018-11-20-13-28-26-audio.m4a.wav|Woof, woof! Haha! Time to learn about more animals.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta0b104ea-038e-4ad0-a1ba-717ddb14ee602018-08-26-14-55-32-audio.m4a.wav|carrot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7446f0c1-5070-43ee-83cc-283c3a416d5b2019-01-11-14-58-02-audio.m4a.wav|sea
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript03cd394d-45e7-4766-9544-4b7f697111912019-01-11-14-25-32-audio.m4a.wav|side
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta95eb2db-db9e-410c-bc31-ed259b4abd0b2018-09-02-14-20-18-audio.m4a_truncated.wav|Sophia
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript203c0a6c-f5d9-49b0-98f6-1ea40624e4aa2019-01-22-11-17-45-audio.m4a.wav|The hamster is on top of ...
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript811331f5-985c-48bf-aad8-5020eb68f0f12019-02-12-11-03-16-audio.m4a.wav|Where do you live? I live in the desert.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbe3aa45b-3f89-46cb-b4fa-9e430a4eb2212019-01-16-13-35-59-audio.m4a.wav|marker
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte3f4ce7f-7075-4c22-8608-1a27e986c58c2019-01-16-15-31-23-audio.m4a.wav|Violin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc1ec59e6-d8c2-497e-b830-1bdbaee3b1682019-01-11-14-28-55-audio.m4a.wav|hip
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0c5457ef-f9fc-4bef-9c55-e0b35c23c4942018-08-26-15-06-20-audio.m4a.wav|blow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta77e925a-29bf-4c42-ab19-4c66e16a3c372018-11-20-14-44-24-audio.m4a.wav|Captain
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript277446aa-92a3-434a-87d6-a841bba8f5682019-01-22-11-36-59-audio.m4a.wav|He cries in the stroller.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3606b3f2-7093-4b6c-837b-2739d31ca0722018-08-23-21-02-07-audio.m4a.wav|two
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript926a0a3f-45ec-452d-839f-3ee590f516e22018-08-23-21-09-29-audio.m4a.wav|slide
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript33a41901-b375-48fd-a5bc-eff584dcfd7f2018-08-23-19-32-29-audio.m4a.wav|请回答！
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript74b3732c-3b73-45e0-88d8-222c93a1c7ba2019-03-12-15-22-18-audio.m4a.wav|Help Gilly Race! Tap the word.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0dbe3ea8-2aa5-4f06-a675-fff138f03b722019-02-12-10-51-53-audio.m4a.wav|Whales swallow in this tank.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5510642e-f14f-4e3c-815d-e81fc4b5381b2018-08-23-21-02-11-audio.m4a.wav|two
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd12315ed-542c-401b-952a-c6646463fe842018-11-20-13-39-34-audio.m4a.wav|Action words!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript413fa143-ec12-460c-ac6c-06192cf203472018-09-11-20-53-11-audio.m4a.wav|You said it! High Five!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript39b08bab-ff02-4f5a-a8bc-f264e4af73322018-08-23-20-12-16-audio.m4a.wav|bathtub
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0d8cdbe3-354d-41ed-92ad-7ec5361990752019-01-16-13-26-20-audio.m4a.wav|toilet paper
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0bd2f2ea-7a9f-4a63-8d65-c5d5c5da62032019-01-16-15-11-59-audio.m4a.wav|L -written by E.H. Clark, illustrated by Poky Wu
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript72646ea5-179b-4b4d-97c5-d38f534394e32019-01-11-14-09-59-audio.m4a.wav|kind
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript50d4bcb5-be9c-4751-8741-3ff4d3057aee2018-06-24-15-58-16-audio.m4a.wav|we are going to learn about food, you like it, do you?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptca2a07b6-ac52-4709-8310-88e5aae9b5782018-08-26-13-40-10-audio.m4a.wav|bunny
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5dea6f5b-d8c8-4152-b5f0-7a1c3ff4117a2019-03-12-15-12-09-audio.m4a.wav|city
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcdb5660b-5026-4f32-b66a-6dde074cebfe2018-08-26-13-22-01-audio.m4a.wav|ice cream
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfcb06c74-778b-4cce-b7e7-4aacf67ba2862019-01-11-15-44-04-audio.m4a.wav|fly
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0c8e633a-22a6-48fc-81f0-4249a9350b7f2018-08-26-15-41-10-audio.m4a.wav|asleep
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript19aa61e7-af2f-4e75-ad59-345ade50f33a2018-11-20-14-00-21-audio.m4a.wav|Me?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd6cc874b-7270-4ef6-969d-6d24967528dd2018-09-11-20-49-40-audio.m4a.wav|Thank you! See you! Bye Bye!!! (build in excitement)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb8135ff0-01a9-4fb4-b0f7-059a0b367f822019-01-11-14-44-28-audio.m4a.wav|short
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2438b522-863f-4eea-97ee-ee5cc4dd612f2018-08-26-13-40-44-audio.m4a.wav|quack
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript66f07ba5-0e12-4e14-83ad-23100c54a8a92019-01-16-15-13-31-audio.m4a.wav|Ostrich
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript03021a8d-d187-4290-8db5-abee0616b0b42018-08-26-13-25-17-audio.m4a.wav|Teddy bear
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptff1bed45-a7c1-467d-85bc-6df702b709282018-08-26-13-43-08-audio.m4a.wav|pony
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3fc7cc20-3cb8-478b-b44d-bebfe84a53512019-02-12-10-32-25-audio.m4a.wav|The big dinner!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript692f9930-eb51-4c92-8178-54144e0188df2019-01-22-11-35-33-audio.m4a.wav|He lost his sneakers.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta90cae43-ed90-48a1-af9a-247c6a6661be2018-08-26-15-06-15-audio.m4a.wav|blow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc1857d93-a726-4d60-a000-55e01f747e0e2018-08-23-20-32-21-audio.m4a.wav|chopsticks
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript906d7ec5-015d-4e92-864b-130aabfc847b2019-01-11-15-15-05-audio.m4a.wav|leaf
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaf1831bf-5acd-442e-95c6-91ed619b79e12019-01-16-14-21-39-audio.m4a.wav|stomp
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript14715a6f-6d59-4233-8aed-d620603a1c332019-01-11-15-20-05-audio.m4a.wav|amazing
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7b8c6b55-b456-4d60-b7cc-0684f182216a2018-09-11-20-49-13-audio.m4a.wav|Word Train! Choo Choo! (misc excited phrases/sounds)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9864814f-30dc-4545-8155-a96c0f6e4de92019-01-11-13-43-03-audio.m4a.wav|Let's review the words about meals!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0faa3e8b-7007-4d7e-b72d-30a1fdb985002018-08-23-20-08-06-audio.m4a.wav|pee
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1bd5319c-069c-48c8-82a7-9bba0693da752019-01-22-11-58-20-audio.m4a.wav|These underpants are itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte1e8881b-7683-41c4-8031-fe8a97a5ae002019-01-22-11-32-57-audio.m4a.wav|Let's wave our flags!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript18109561-c4f6-4bae-9da0-5bffdec04f5f2018-06-24-16-35-44-audio.m4a.wav|awesome! i hope you enjoyed it.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript46a85850-053a-480c-92e8-b27568a09d5d2019-01-22-09-59-08-audio.m4a.wav|I see ten dancers.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte09cf3e8-1fa9-4e41-9b5c-b2e313b0f3fe2019-01-16-13-34-43-audio.m4a.wav|cheerful
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta4d3081a-b720-48c0-aa09-64076cd4a5da2018-09-02-14-19-59-audio.m4a.wav|Emma
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript799d4525-ddbd-4149-a358-dc558927020e2018-06-24-15-37-53-audio.m4a.wav|Sneeze
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript836d3a7d-fa4d-4cf8-8ae8-7a5136d14e902018-11-20-14-04-18-audio.m4a.wav|Numbers time!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript40ee0d78-44af-46f2-a1bd-42aaa86e3f1b2018-06-24-16-19-01-audio.m4a.wav|little (normal)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfe739e0b-1f0b-43a9-9200-65b1c25464f32018-08-23-20-27-52-audio.m4a.wav|white
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8f79dd9f-fd87-40d8-bee6-e67a3de9761a2019-01-22-11-38-31-audio.m4a.wav|Add some white.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript02d8808e-7ab8-4455-a63c-e05b159486212018-09-02-13-31-08-audio.m4a_truncated.wav|Eaton
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd0310972-6b00-44d3-8301-bafd430eb9fa2018-09-11-21-23-23-audio.m4a.wav|This poodle likes to bark. (slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7075e384-01b4-4bd8-a55f-78f0da90f1c02018-08-23-20-11-16-audio.m4a.wav|bath
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1dc7fde7-6995-496c-ba72-2aeb54270efd2018-09-02-13-33-25-audio.m4a_truncated.wav|Gray
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6818e469-698c-47ad-9163-1b4ba220360d2018-08-26-15-26-12-audio.m4a.wav|nap
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript977b222d-687b-413c-aa2e-4d7549fd55eb2018-11-20-13-34-35-audio.m4a.wav|Bath time words!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptab3958f0-3c5e-43b1-a273-75bbaef5c9db2019-01-16-14-21-28-audio.m4a.wav|gallop
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7898aac-9c2f-4a24-8e6d-5656bbc9fc4f2018-08-26-13-31-40-audio.m4a.wav|train
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte52233bd-4355-481f-80f6-882c1b54f38a2018-08-23-20-55-26-audio.m4a.wav|bench
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4f486743-bc4e-4e3d-86df-87d2915356582018-09-02-14-29-13-audio.m4a.wav|bye
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript50629c82-a5db-43d9-9b0d-d3efe426fbdc2019-01-11-16-06-31-audio.m4a.wav|cabbage
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7eeb139f-7f36-432a-86b0-3d240f38268f2018-08-23-19-57-03-audio.m4a.wav|Aho…
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb05c4345-4376-4532-8531-c238626c3d002019-02-12-10-19-47-audio.m4a.wav|Unhappy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5d798dd6-78ad-4f5d-b2db-89a39997da742019-02-12-11-06-36-audio.m4a.wav|Big dinner! Dumplings, fish and more!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf0fa985a-5a83-4431-ba45-69da67b51fdc2018-09-02-13-44-05-audio.m4a.wav|Shawn
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3013cfd2-b526-4733-9808-50ebb4bd785b2019-01-16-15-33-09-audio.m4a.wav|Zombie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript196952bb-6194-4c32-8706-4004e8dbb5ca2018-09-11-21-32-17-audio.m4a.wav|This zebra is far away.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript32b49b19-e09a-44d7-aed4-cb7a7d02c0542018-08-23-21-13-35-audio.m4a.wav|Hi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb2f31922-8f82-407c-944a-aa989f41dbfb2018-09-11-20-39-55-audio.m4a.wav|Keep trying!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptece09ec1-f0fa-4110-8a32-4c25ce963dfa2018-08-26-15-11-38-audio.m4a.wav|push
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript325f0ce1-94eb-40ea-8522-9c9cca0de7fb2019-01-22-10-34-53-audio.m4a.wav|My father fixes machines. My mother fixes machines too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript68f65199-c0b9-49ec-9618-3bb387db04d12019-01-11-16-10-06-audio.m4a.wav|eyebrow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb5142d29-042f-4b27-8f66-02e2f546e5f32019-01-22-10-34-20-audio.m4a.wav|My father learns new things. My mother learns new things.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript001126e6-411d-4200-aa69-96e668a99dbb2019-01-11-14-13-19-audio.m4a.wav|hate
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta0c03316-b4c3-4228-8093-dea78d063eb32018-09-02-14-34-34-audio.m4a.wav|picture
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4459e533-5e13-4b55-afde-ccf96299fcaa2019-01-16-13-59-16-audio.m4a.wav|gill
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript068eac14-07e4-4d4c-9497-dc7c7f463a5d2018-08-23-20-32-16-audio.m4a.wav|chopsticks
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptffce8c1e-f9fa-40f7-9bc5-e73494f3b0912019-02-12-11-07-05-audio.m4a.wav|Firecrackers and fireworks!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptac758d04-ba0f-445d-a270-6b77ab455b222019-01-16-15-31-35-audio.m4a.wav|Vulture
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc83cee55-9321-44c1-a51f-0b59e70e25a82018-08-26-13-40-04-audio.m4a.wav|hen
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript36a1a360-9db8-4015-84cd-34847d8416bb2018-11-20-13-52-53-audio.m4a.wav|More about senses.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd5fab8de-6ede-4540-9fd2-439f0e229a762018-08-23-20-11-10-audio.m4a.wav|shampoo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte1136300-e5da-4ef3-a98a-729025a5c3bc2019-01-22-11-17-14-audio.m4a.wav|Twenty aliens had fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta72236b8-7198-491f-bb81-5b61cb8134f92018-11-20-14-39-56-audio.m4a.wav|Quiet
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0a265a69-9a11-4d8c-9f57-e844b5fe222e2018-09-11-20-21-14-audio.m4a.wav|Please touch.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript05644b7a-a43a-4cb9-a99e-250d16f32c9f2018-09-02-14-05-19-audio.m4a.wav|yard
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3999e835-79fa-4e25-b5b9-46df0c1465402018-11-20-14-01-02-audio.m4a.wav|Wow, it's review time again!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1c64920c-258d-441e-b431-177f4c6973c82018-08-26-13-46-10-audio.m4a.wav|dryer
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5f4dcbe9-edee-4cac-a4ad-bcb17fb8ce8f2019-03-12-15-28-04-audio.m4a.wav|Tim loves the fun house.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd5846b50-633a-4a6b-97ec-fc5a10e798ce2018-09-02-13-33-45-audio.m4a_truncated.wav|Harry
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript91123c18-131b-48b2-bac7-fe5be3db490b2018-11-20-14-30-40-audio.m4a.wav|twelve
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript37687d24-f305-47aa-901c-d0e893b9837f2019-01-16-15-12-12-audio.m4a.wav|Lemon
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript839481a7-4b84-49f2-89f6-a794e23d95042019-01-16-15-29-17-audio.m4a.wav|T-written by E.H. Clark, illustrated by Poky Wu
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta87d91ca-01c9-44d8-98d7-7866f07cef122018-08-23-19-51-27-audio.m4a.wav|Great!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript66b1cfd3-9b24-48d7-8c58-74ac2761c6882018-08-23-21-02-26-audio.m4a.wav|bedroom
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript953c1d09-e010-42ac-9aeb-38b4173d1f582019-01-22-11-38-24-audio.m4a.wav|Add some white.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9e8cbbc3-56db-4256-a738-c57c93f806302018-08-26-15-47-25-audio.m4a.wav|a lot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript11fc009f-03e4-4cfd-9c34-3ee0fe49a7132018-08-26-15-47-45-audio.m4a.wav|nut
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript68c313a0-4396-4089-9cb8-4b4a453ec2d42018-08-23-20-52-25-audio.m4a.wav|strawberry
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc0789cd1-8ae9-4fc0-b464-4b99a360b1b62018-08-26-15-40-47-audio.m4a.wav|wish
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5f1f4989-1b7d-407a-84cc-269b7e078a442018-09-11-20-33-11-audio.m4a.wav|Let's echo read! I read. You repeat.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2ecd1250-fde0-428e-b78f-95bc5fdb166c2018-08-26-13-22-27-audio.m4a.wav|yogurt
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript68fa0e68-d20d-4f78-8abe-138686d98d132018-09-11-21-27-07-audio.m4a.wav|This poodle likes to bark at itself! (slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript230c4532-8783-4434-be1f-05dacf1574e32018-08-23-20-27-27-audio.m4a.wav|gray
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb8b140a4-8045-410c-8c16-a0bf0844aa182019-01-22-11-31-53-audio.m4a.wav|Let's make flags.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript85cd78d7-7806-4005-aaed-20d09fc661222018-08-23-20-43-28-audio.m4a.wav|sad
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptebbd931c-983e-4d7c-a480-1e1c0db322a02019-01-11-14-29-20-audio.m4a.wav|near
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript60982075-cb80-46a2-88fe-0b2e841bb2e12018-11-20-13-22-51-audio.m4a.wav|Good Morning!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4340d785-da16-4c01-8048-0011566542062019-01-16-14-49-04-audio.m4a.wav|Alligator
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript67959456-6e3e-40ab-8142-bde260be47842019-01-22-11-56-37-audio.m4a.wav|Sprinkle in some red strawberries.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6dc94149-aa56-432a-a0f3-45122ba440d62018-11-20-14-45-46-audio.m4a.wav|Tiny
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript10ac1121-d3c2-4c29-9687-d3fd2a2e904b2018-06-24-16-48-25-audio.m4a.wav|Farm Animal Rap
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript81b5c64e-bfda-4658-8435-24cba8b358722018-11-20-14-21-55-audio.m4a.wav|Rainbow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript14eb4b76-b0fb-4f66-bfb5-02b6599ae70e2019-01-22-11-18-44-audio.m4a.wav|The sheep is on top of ...
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9623ebf8-4bc2-4e10-9981-9a1d3792cdbd2018-06-24-15-36-40-audio.m4a.wav|Wooo!!!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript719eb479-50f6-4f8e-a914-90d806266cb12019-01-11-14-33-45-audio.m4a.wav|front
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript41f88c4f-f3fe-4b87-8e7d-54cfb8d298e12018-08-26-15-50-15-audio.m4a.wav|ice
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta64f9e57-a70b-4664-bbc3-4e77218b50f72018-09-11-21-29-34-audio.m4a.wav|squirrel
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1f2b941f-216b-4aeb-b98e-dec23cdb6ec92018-08-23-20-27-47-audio.m4a.wav|brown
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript65a05401-dfa9-4543-9ccd-f046fabc59882018-08-23-20-45-20-audio.m4a.wav|meat
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript11dad7db-6086-4cde-8d81-65c1b8cf247b2018-08-26-14-35-54-audio.m4a.wav|teacher
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript837333ab-7942-4c50-a603-3606bdb788b82018-11-20-13-34-21-audio.m4a.wav|Let's learn about drinks!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta6d7936a-f9f4-426f-a907-82c54a34ac3d2018-11-20-13-27-21-audio.m4a.wav|Right! Review time again. Haha.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaffec175-3cad-49aa-ad5e-a5a1cadd04e92018-11-20-14-19-00-audio.m4a.wav|Uh, no!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0278ab0c-68ce-4118-9587-30a4bd1fa6752018-08-26-15-24-33-audio.m4a.wav|call
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript89837c5a-21e9-4361-89f8-1a332656bfd12019-01-16-13-35-26-audio.m4a.wav|crunchy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript99871a11-2ba0-4957-93f2-e152f72c04a22018-09-02-13-41-47-audio.m4a.wav|Rick
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5b892b99-c060-4522-b7b1-9b664eafd6742019-01-16-14-19-19-audio.m4a.wav|maraca
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfc3c50ea-db82-4de4-81d7-fe610b7eff9f2019-02-12-10-18-27-audio.m4a.wav|I can use a screwdriver.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7dcbd7a4-378c-4194-91c4-63833c3526022019-01-22-12-10-01-audio.m4a.wav|We will make sundaes.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript900b682e-2264-464f-852b-237707ccd1ff2018-08-23-20-27-06-audio.m4a.wav|blue
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9929eae2-1b33-41f4-8e2a-cdd89cc883f32019-01-22-10-55-22-audio.m4a.wav|We ate too much!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript451f246f-7c29-4a5a-b9bb-4db88fd5b7c42018-08-23-20-43-47-audio.m4a.wav|bread
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript40c0b6fe-a728-49fa-b2ed-9a218959c63d2018-08-26-14-55-36-audio.m4a.wav|carrot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript58b5ae57-8010-4638-8d56-8ebb916f2c5f2018-06-24-16-08-19-audio.m4a.wav|Tell me, who in your family is the tallest? Is it your dad? Or maybe a brother? In my family, I’m the tallest! Being tall is great. Being short is okay too though. I remember when I was your age, I was just as short as you! Maybe even shorter… but don’t tell anyone that, it’s our secret! That’s right. Knowing words to describe stuff is the best! Let’s get learning!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript70baf3b0-3b78-4e43-a075-1ef17ad52e352018-11-20-14-43-06-audio.m4a.wav|Sleigh
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4c74aa02-81a2-477a-9d01-c08b4231057f2018-08-23-20-12-29-audio.m4a.wav|body
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6af05e85-9685-4f14-8dc1-5da91c668a812018-08-26-14-38-48-audio.m4a.wav|school
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7760549-32ba-4719-8086-61c09159404a2019-01-11-14-05-02-audio.m4a.wav|basement
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0e2d5303-1b91-48c8-bddc-4f2c5e31ef482019-01-11-15-14-39-audio.m4a.wav|root
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7178862f-585f-447d-b9d3-4eeea00920412019-01-16-14-19-30-audio.m4a.wav|peacock
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc0ced7af-f991-45ba-91c6-815449f587f62019-01-22-10-09-39-audio.m4a.wav|It's one hour!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript502edad1-dbd8-41fd-9cd7-563ee32a90392018-08-23-20-08-38-audio.m4a.wav|toilet paper
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript54340642-a80b-4975-a873-a75bfbd925bf2018-08-23-20-01-23-audio.m4a.wav|dog
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8f2e02e0-7242-49ec-9168-714cf35c831b2018-08-23-20-45-40-audio.m4a.wav|picnic
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1fa38b15-94b9-4523-b4fb-628ef8be50ce2019-01-16-13-26-14-audio.m4a.wav|toilet paper
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7121adb9-9156-4573-ad42-ba33cc7351bf2018-09-11-20-57-54-audio.m4a.wav|Look....Flip two cards and Match them!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript847911f3-5040-4147-9f43-ef8551297b812019-01-11-14-39-01-audio.m4a.wav|aquarium
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta8b618e4-15c6-4a74-81bf-bc27725b7a122018-09-02-13-32-44-audio.m4a.wav|Edward
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript26fda468-a5f0-4a8f-8455-b3e9c4fe12812018-09-02-13-30-44-audio.m4a.wav|David
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6cf18a59-d503-4796-9839-097c86ec722e2019-01-11-14-55-01-audio.m4a.wav|lose
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3be3ad95-fddd-4be6-87c8-fafe2c4673a62019-01-22-09-56-11-audio.m4a.wav|Jen goes down. Ben goes up.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4fb8707d-4fc8-4dee-9bf6-be57065a8a6e2018-11-20-13-36-31-audio.m4a.wav|Hooray for animals!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8dfb93d2-f822-4e56-9969-c8513d590a242018-09-02-13-44-31-audio.m4a_truncated.wav|Steven
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta371d8f4-d90f-4d10-9f22-0086fe7aed562019-01-22-11-15-30-audio.m4a.wav|Twelve liked shopping!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf4d264d8-ab38-4c0a-a2e4-94ace2bd58c02018-11-20-14-34-12-audio.m4a.wav|Afternoon
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9a0e131c-af41-462d-924e-edfaf94e81022018-09-11-20-42-57-audio.m4a.wav|Superhero start!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptae8f6871-caba-4de7-b15c-e14e87442a932018-09-02-13-57-08-audio.m4a.wav|walker
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript770444f4-8e98-4e6a-9772-6be9372ced852019-03-12-15-27-50-audio.m4a.wav|Tom hates the fun house.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2705dcae-e390-423b-b453-0ff939bb139a2019-01-11-15-10-44-audio.m4a.wav|sibling
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte4bb7f9c-4eaf-48c2-aa91-eed21b066f462018-06-24-16-16-38-audio.m4a.wav|cold(normal)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript161c93de-6298-4e40-8c2b-1c422feaa3982019-01-22-10-12-05-audio.m4a.wav|My Utensils -written by Amy Bucher, illustrated by Muhammad Khaidir Syafei
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8ef1ad6d-f000-44ec-aa37-aeac45b1e95c2018-08-23-20-32-16-audio.m4a.wav|chopsticks
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47c7580b-7274-45fb-a118-6235a1ece3dd2019-01-11-15-09-56-audio.m4a.wav|mom
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2517c248-5b26-479d-ab3e-ee947cfa890a2018-08-23-21-11-57-audio.m4a.wav|pencil
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta1db09fd-2547-4005-9ee0-bce651bf870f2019-01-22-10-37-32-audio.m4a.wav|My father teaches. My mother teaches.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7d537a8d-dd72-4fc4-a6e5-ced5690c0ad92019-03-12-15-28-12-audio.m4a.wav|Tim loves the fun house.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript81d45b15-d1d7-47d3-bd8b-d9ee74e0cd082018-11-20-13-39-41-audio.m4a.wav|It's Vocabulary Class!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8810325f-1816-4517-9c33-6c74d72a82fb2018-06-24-16-01-19-audio.m4a.wav|duck(slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript670cd784-0ed3-4548-b291-3237985257de2018-08-26-13-54-58-audio.m4a.wav|present
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript38281d79-5a0a-440b-9d1b-2ef2dbf494f52018-08-26-15-23-33-audio.m4a.wav|cook
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript06f6460d-61e7-440c-a8ab-791cfb60a5912019-01-11-13-37-21-audio.m4a.wav|This class is so fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript22661193-e279-437d-a8cd-46b389e858b12018-08-26-13-27-42-audio.m4a.wav|bike
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdade4928-f652-45f7-8ea7-0118cc1359162019-01-11-14-38-41-audio.m4a.wav|market
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd036cb3b-7e49-478c-937e-121e17c64b832018-08-26-14-46-21-audio.m4a.wav|bat
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript60ebf81a-b3e4-4402-ace0-26cdb1735cb42018-08-23-20-43-34-audio.m4a.wav|rice
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript75a78f6b-43bc-48b0-9205-b913aa2bf79b2019-01-22-10-56-58-audio.m4a.wav|Come in!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7015c03-8640-4d0a-abd2-fbd42afdd9022019-01-11-13-51-28-audio.m4a.wav|Sneeze
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6b9689b2-4a59-4d19-8cf4-4675ce9a27472018-08-23-21-13-28-audio.m4a.wav|chocolate
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptde3dc34b-b128-4855-a659-1e6c2e2ecbed2019-03-12-15-14-41-audio.m4a.wav|Wow! What a big jump! That looked like fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd33e4840-94aa-4c97-9539-c7ed8092928d2018-08-26-14-55-22-audio.m4a.wav|tractor
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptce143392-fbd9-42e7-9ad6-e535b7f4bfa12018-08-23-20-12-07-audio.m4a.wav|towel
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1ef80576-eb24-4c60-8226-687d0be2f5fc2019-01-11-15-55-37-audio.m4a.wav|ocean
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript90bd8c27-1b26-4aa0-99a5-77fd9136439f2018-08-26-15-33-20-audio.m4a.wav|hide
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript53b8e302-8010-40ce-9c18-74edc1607fa42018-09-02-14-38-02-audio.m4a.wav|movie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptca703a29-dcd7-40d8-8494-32be9147ad032018-09-11-21-04-12-audio.m4a.wav|High five! What fun!!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript052d3b13-4343-48f0-b83a-e112a891e3072018-09-02-13-13-12-audio.m4a.wav|Celia
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4918bb69-7399-4b52-be8e-2ca7a8d368392019-01-11-14-42-25-audio.m4a.wav|Christmas
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdc8c7bab-d782-4441-9ec5-74411b786a832019-01-11-15-36-14-audio.m4a.wav|count
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7ad3795-b6e8-4a3b-8515-a72f287b3bd62019-01-11-14-58-02-audio.m4a.wav|sea
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript32cf3e77-92ca-4cc6-8cf0-739e4f70cdc22019-01-11-14-58-52-audio.m4a.wav|hospital
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2ad7c0d8-ea22-4760-b7b4-696d776587bd2018-08-26-13-28-03-audio.m4a.wav|bus
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript21b1148d-482a-43a8-9085-1435a4cb0f682019-01-22-10-54-57-audio.m4a.wav|We ate eighteen French fries.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript91eff87c-a1ec-4e48-974e-988723d1190c2018-09-02-14-05-50-audio.m4a.wav|street
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte1a14fbf-f1a5-4243-810e-d683b39989462018-08-23-20-33-07-audio.m4a.wav|spoon
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaa67054d-770e-40c2-95d7-29c236cc81332018-08-26-14-41-00-audio.m4a.wav|farm
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2fcfb479-8276-4b47-8eed-c5ed02f892d22018-11-20-14-42-38-audio.m4a.wav|Igloo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript07443d28-18b3-4388-935a-05ee02589cf32018-08-23-20-00-30-audio.m4a.wav|rabbit
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47658f1f-2aba-4150-a841-545f9399f67e2019-01-16-13-35-33-audio.m4a.wav|laptop
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript859098de-368e-4c54-822d-65f7cb0d8f022018-08-26-14-25-45-audio.m4a.wav|hammer
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1b659e07-8841-42d6-a421-eef390b694802018-09-02-14-09-56-audio.m4a.wav|I can only see part of your face! Please put your face back in the screen.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3176c05b-953c-45a6-aab1-38b35fe4d08b2018-08-26-14-32-39-audio.m4a.wav|roof
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfeea991f-2a82-48b7-9865-3c6b18eb898f2019-02-12-10-19-53-audio.m4a.wav|Unhappy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbb81cb4b-2a98-469d-b056-4a3073e58b4e2019-01-11-14-58-07-audio.m4a.wav|sea
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf371124d-0ee1-49f4-96a6-9883d0da467e2019-01-22-12-19-12-audio.m4a.wav|Animal Tower -written by Amy Bucher, illustrated by Charity Russell
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1539d575-b1bc-4146-bd73-b074ae92451a2018-08-26-14-55-32-audio.m4a.wav|carrot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript178759ba-bcda-4e66-bfdd-f771b6de1d072019-01-16-13-57-05-audio.m4a.wav|mushroom
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptca2e9842-3dcb-4779-b992-e7d954276f392019-01-11-13-44-12-audio.m4a.wav|Let's review the words about things in the house.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript57898bae-22de-4226-882e-1922fe09297f2018-08-23-20-00-24-audio.m4a.wav|count
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript77f94b0b-e433-472e-92d2-195583c354912019-02-12-11-16-00-audio.m4a.wav|Tom and Tim visit the aquarium.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte9aa0fc6-43ee-4671-9269-5b9e7bb9b13c2019-01-11-15-14-44-audio.m4a.wav|root
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript27678cf3-4a0e-432f-85be-d3e60c404a5d2018-08-23-20-26-00-audio.m4a.wav|pink
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3592fe16-a4bc-4acc-bdbf-33643e9607522018-09-11-20-52-33-audio.m4a.wav|Pick It Game! Pick It! Pick It! Pick It! (excited voice)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript010bfecc-4fa9-4d73-9557-ecc58e3f6c532019-01-11-15-35-51-audio.m4a.wav|whale
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript809dddc5-01d8-4ac1-994a-486f8525909c2018-09-11-21-34-27-audio.m4a.wav|This deer is near.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcabe1b64-8b8d-4a31-a843-368e45e5efee2019-01-22-12-15-10-audio.m4a.wav|My mommy likes to fix.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd13241c5-4c38-4503-8fc6-21dad270f33f2019-01-16-13-25-38-audio.m4a.wav|basin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc68c3777-9ca3-443b-b8bf-84285791cfcf2019-01-16-13-23-47-audio.m4a.wav|mobile phone
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0dff8ab0-722a-4083-b10d-c8ff9aaf013a2019-01-16-13-25-08-audio.m4a.wav|hiss
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfffff302-5cc3-415c-b276-a238974eb5562019-01-11-14-47-41-audio.m4a.wav|queen
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbd69afd3-0f1f-4575-be11-067ec69103b72018-08-26-13-25-48-audio.m4a.wav|tricycle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5c26a93f-9ea5-4ca7-b251-06472891adb12018-08-23-19-52-55-audio.m4a.wav|Wow, look at you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1d5ac823-df1f-458e-aa9d-6550414e07c42018-09-02-13-21-49-audio.m4a.wav|Melissa
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc6421002-e8aa-41e9-b08a-aae82947c1bb2018-08-26-15-02-14-audio.m4a.wav|stand
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47808f37-924a-4ba0-83f4-e7feb3285d642018-08-23-20-15-43-audio.m4a.wav|arm
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb0547970-4cd4-4528-87e5-81c9d8651d4f2018-08-26-14-33-07-audio.m4a.wav|people
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript70b3b226-7ae3-41ed-93cb-7ca596e452da2019-01-16-15-30-26-audio.m4a.wav|Uniform
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5ad21d8e-8273-4963-9fd8-303496b997b12019-01-22-12-09-15-audio.m4a.wav|We will make art.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript848a1cde-7083-4e21-8539-d4d284b401e32018-11-20-14-14-36-audio.m4a.wav|More about fun actions!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript36d33323-2840-407d-82cb-77acfd0e3f112018-11-20-14-01-49-audio.m4a.wav|Review class!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcb60bb22-588b-40bf-af6f-f277999f07262019-01-11-13-50-56-audio.m4a.wav|What is my job?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf8739ec7-52d4-483b-951c-ec208036bb602019-01-11-15-20-05-audio.m4a.wav|amazing
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript91a5147c-dd83-4a62-a5c0-6aec2688dedc2018-08-26-14-58-08-audio.m4a.wav|windy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7e3ff46-895a-4b4f-8cf5-1327367056432019-01-11-14-22-01-audio.m4a.wav|October
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0ff426af-f2dc-42a7-adb7-0746e497adfa2018-08-26-13-55-29-audio.m4a.wav|finger
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript89b34ef5-e077-4756-ad1d-697c953b564a2019-02-12-10-51-46-audio.m4a.wav|Whales swallow in this tank.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte43194a9-fb24-4002-ab75-6b13f104571f2018-08-26-14-38-38-audio.m4a.wav|park
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript03a9ebd2-a5e4-4acb-a2c6-c60fea3218b52019-01-22-12-00-04-audio.m4a.wav|I'm so itchy!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7a8723ff-0966-4a5a-82f5-f576b0995ac32018-08-26-15-36-12-audio.m4a.wav|slide
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd2cd9b3f-b6e3-434e-8c4b-04fa5ea0eddd2018-08-23-21-09-54-audio.m4a.wav|backpack
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte05dacfe-f91b-4102-b26f-297fa7458b9d2019-01-11-15-36-31-audio.m4a.wav|insect
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta2260919-2fce-491b-b17f-e8a094f68b6e2019-01-16-14-20-52-audio.m4a.wav|twinkle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb7135dea-25f8-4971-9f35-aa81ae43fef02019-02-12-11-06-51-audio.m4a.wav|Watch dragon dance.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0eecb367-b55f-4f77-96df-ba01d4fe5d012019-01-11-15-03-05-audio.m4a.wav|fever
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripted64efef-97af-455e-8a79-d3205e302b442018-08-23-19-51-58-audio.m4a.wav|Yes!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf8529031-f924-4df1-9d86-34c89482d3a02019-01-22-10-00-00-audio.m4a.wav|Hooray! That was fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta15d6922-3807-4bda-b65e-d7cc95228ade2019-01-11-15-55-00-audio.m4a.wav|sushi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript238f4a20-4dd2-4bb9-91a5-99e0ef01e95c2019-01-22-10-32-05-audio.m4a.wav|My father cooks food. My mother cooks food too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf92af260-3996-47f8-a1b3-1c57880ddd1d2018-09-11-21-00-53-audio.m4a.wav|Look....Flip two cards and Match them!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1660e15b-2861-49e8-832a-5b0130aafec52018-08-23-20-24-03-audio.m4a.wav|sweater
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcaf4e933-d155-4943-a484-4951774068e82018-06-24-14-57-00-audio.m4a.wav|We’ve learned quite a few words. Now, let’s watch a fun music video. Hope you’ll find quite a few familiar words in it. Enjoy!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0ad3bb1c-4f34-4266-94d7-e788ff1d86212018-08-26-15-13-46-audio.m4a.wav|wash
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4a851cc2-801e-49ed-841d-0e123da6714d2018-08-26-14-44-11-audio.m4a.wav|moon
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3311220a-21e1-463f-9620-447e40257a032018-09-02-14-12-44-audio.m4a.wav|Where did you go? I can’t see you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript762760f0-4c34-47fc-841b-75e4cbc60f492018-08-26-13-38-10-audio.m4a.wav|turkey
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta569b8a1-8fdf-4fef-ba04-bf45a8f2b7382018-11-20-13-54-39-audio.m4a.wav|Let's review words!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdcd68746-684a-48ef-9601-1ba6f32c77d02018-11-20-14-32-12-audio.m4a.wav|worm
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb80ffb04-7028-4cd1-bce1-8116b430c5132018-08-23-20-27-47-audio.m4a.wav|brown
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript11ea800a-e643-4737-b90d-5b508be5ce422018-09-02-13-19-21-audio.m4a.wav|Kate
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf25b7d4b-5198-444f-9e31-0d39b551d20d2019-01-16-13-37-53-audio.m4a.wav|shout
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd11b4643-37b0-434b-bf58-05c73990d8aa2019-01-11-15-30-24-audio.m4a.wav|steady
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript49c9d988-c5b9-4c76-8554-c6a9724aabfd2018-08-26-14-17-23-audio.m4a.wav|daddy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf544e88e-a399-4d75-9540-b2fadcae88502018-08-26-14-58-31-audio.m4a.wav|dance
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta4dadb2a-b5b2-4ef5-a74a-33f425afc4322019-02-12-11-07-20-audio.m4a.wav|Happy New Year!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript50e96a18-25c1-4182-9e12-4cc8dac8319c2018-09-02-13-30-17-audio.m4a.wav|Charles
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3dcb1d87-6b69-4993-a45f-4a395bb0f74b2018-11-20-13-24-10-audio.m4a.wav|I'm so happy to see you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5dbbba2e-b1c7-4bff-9d36-af9232c42d5f2019-01-11-16-10-01-audio.m4a.wav|eyebrow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript10eb7958-f080-4cf2-9f04-71a927d80ce82018-09-11-21-34-10-audio.m4a.wav|That panda is far away.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript18d1f648-8264-4a3d-9861-2fc1701a46e92019-01-22-10-54-16-audio.m4a.wav|We ate eighteen popsicles.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2b4557dd-687e-4ff1-ae85-051eee4d13d92018-09-11-20-20-38-audio.m4a.wav|Words! Words! Words!!! Touch. And repeat the word. Repeat..repeat...repeat!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6d2bbda1-5f3a-494a-8bcf-54e563606f922019-01-11-14-48-02-audio.m4a.wav|princess
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8a99449f-7174-45b2-8fb3-2d01a77e8d062019-02-12-11-03-33-audio.m4a.wav|Where do you live? I live in the wetlands.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3fc5c4e2-34b1-4860-9a7d-3bfaf4d4f26b2018-08-23-19-52-55-audio.m4a.wav|Wow, look at you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript84d9a1b2-597c-4a35-80e9-67bbba94c8cb2018-06-24-14-38-59-audio.m4a.wav|So, let’s learn the words. First, I will read. And then, you repeat it.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf5fb5985-7e55-40bd-9a0d-3bf5331e53442018-08-23-19-47-00-audio.m4a.wav|Very good job!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47bb2ada-76ac-4567-9279-e782c034420d2018-08-23-20-16-13-audio.m4a.wav|foot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript46ba5d29-ea6d-4237-ad00-ce4a567c26082018-11-20-14-21-14-audio.m4a.wav|Yuck
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc54e151e-bf29-44cc-8e4b-22e968ecf1332018-08-23-20-32-50-audio.m4a.wav|fork
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfade3407-37b2-443d-a90b-b604ede08b652018-06-24-15-27-25-audio.m4a.wav|Interesting. I’ve never seen something like this before.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf4d7215c-dba0-486d-9d5f-06a2fe9af81b2019-01-16-14-23-11-audio.m4a.wav|panda
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbf584b08-a7e0-408c-9abd-e9c63375b7f52018-08-23-20-23-17-audio.m4a.wav|dress
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2a3b8a49-dd28-4dca-bc38-56a24e9ff17f2019-01-11-15-10-23-audio.m4a.wav|grandmother
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript59ee25a6-2ff4-475d-90c5-3cc6228bd9972019-01-11-13-43-45-audio.m4a.wav|Let's learn some exciting words!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5be59b37-3d6b-4f85-b006-2952e55d7ce62018-08-26-15-45-37-audio.m4a.wav|pretty
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta77de3f8-d8f7-49fd-acb9-dffc6da0312a2019-01-11-16-01-36-audio.m4a.wav|guitar
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0689d7ca-d62c-4eea-b183-d1810d6c53262018-11-20-13-40-39-audio.m4a.wav|Yummy snacks!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript62a51728-ec74-451c-8c3f-5a3c815f91be2019-01-11-14-25-38-audio.m4a.wav|side
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript184fb389-0736-4229-8aeb-4263e81dde462018-08-23-20-33-38-audio.m4a.wav|jar
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript76e6f023-c6d1-4096-94ed-639140b04f972018-08-26-15-38-47-audio.m4a.wav|talk
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript380cf06f-012e-419a-938f-bbd3c27894862019-01-16-13-57-38-audio.m4a.wav|cauliflower
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0fc7c80f-a4f5-41bd-888b-931a61a417f92018-08-26-15-53-06-audio.m4a.wav|salt
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta1d6f04f-2b2b-4fda-9d09-faf7efa51a562018-09-02-14-07-56-audio.m4a.wav|applesauce
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte7d9ae61-a4c2-40b7-bd37-950e9f914fd52018-08-26-13-49-21-audio.m4a.wav|bib
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd598c225-6bcc-4f1a-beff-b92c17f27da12019-01-16-15-30-59-audio.m4a.wav|Vase
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript350e9d56-f920-4aba-be49-e383775b97292018-09-02-13-57-18-audio.m4a.wav|drawer
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3aac013e-fa1a-467a-a8b9-be8b13633d3c2019-01-22-10-52-58-audio.m4a.wav|We Ate Eighteen-written by Amy Bucher, illustrated by ZhaoMengJiao
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1141781d-2813-4c94-82d4-80f606508f7e2018-11-20-14-39-16-audio.m4a.wav|Full
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8c0eadf6-f2fe-4904-9e3f-417b734e2b082018-09-02-13-30-39-audio.m4a.wav|Dave
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte349fd25-1f81-4e6d-84b0-f0a7313e8a772019-01-11-15-15-00-audio.m4a.wav|leaf
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf2cc1664-f559-4e68-b7aa-21578cb798c72018-08-23-20-16-04-audio.m4a.wav|back
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5c9610b5-b5f6-42ab-accf-b924ef10f4a92019-01-22-12-15-23-audio.m4a.wav|My mommy likes me!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf9e4f02b-33ce-47a6-95e1-d160d77c02072019-01-22-11-39-42-audio.m4a.wav|Add some blue.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf9ab8001-ce2e-4df7-94dd-718f2eaf5bc12019-01-16-13-56-48-audio.m4a.wav|soak
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0fc52963-56b9-4b98-86f3-5bf0c94d31a62019-01-11-13-56-43-audio.m4a.wav|twenty
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfcdf4a47-a7b8-4007-81c4-49777786b9672018-11-20-13-35-18-audio.m4a.wav|(pause) Alright!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd6d67807-7f72-4fe3-8a6e-b992ee19ac812018-08-23-21-09-44-audio.m4a.wav|bag
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7b5bf5a4-f8f4-418b-bf44-cd4f9b01e1332018-06-24-14-38-59-audio.m4a.wav|So, let’s learn the words. First, I will read. And then, you repeat it.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc03d0c1a-d96f-4d97-b8b9-904d7562d7212018-11-20-14-16-00-audio.m4a.wav|Let's review some numbers!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript508fc229-76a4-4212-be9f-255455fee3812019-01-22-11-35-40-audio.m4a.wav|He lost his laptop.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2a3d4d16-1d26-4b09-872d-5a6d57718eae2019-01-16-14-09-44-audio.m4a.wav|gorilla
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8121f27e-f0ad-4ea3-a27c-7d1b67271d532018-11-20-13-45-44-audio.m4a.wav|Can you say Hi Andrew?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7678c0f9-76b7-4c25-b98a-fbe52019d4aa2019-01-11-15-26-06-audio.m4a.wav|rocket
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf792a693-ba37-400b-9d94-f933274eeb3b2018-08-26-15-41-16-audio.m4a.wav|awake
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptafe2b25b-cd1c-4e9c-b0ea-a5ea7366ae942019-01-16-14-49-47-audio.m4a.wav|Bee
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript761d84f0-8beb-43ac-a2d4-69c735e4ee062019-01-11-15-20-51-audio.m4a.wav|bedtime
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2242ff94-e9d4-4b7f-8676-547634f03ae12019-01-11-13-57-28-audio.m4a.wav|smoothie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfb4ff443-2b26-4a04-9895-d664836c76d22019-01-22-10-29-10-audio.m4a.wav|I use a spoon too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5934e866-b870-4a90-b36c-757c9e123ae92018-06-24-15-30-07-audio.m4a.wav|Please try again
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9761f4ce-d53b-4e41-b7d5-52a978c9ad822019-01-11-15-15-38-audio.m4a.wav|letter
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript144019f9-ed80-439b-9eb1-ed30857557402019-01-11-15-10-12-audio.m4a.wav|dad
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd4bd3a42-8f94-46c3-b198-1110dcf46aaa2018-06-24-15-59-56-audio.m4a.wav|cat (slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript11fcb9e0-34fe-4fd5-96a7-9cb847e85ff72018-09-02-13-18-45-audio.m4a.wav|Janie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript19aa537a-96eb-4a5a-a6ef-c42ad485e6532019-01-16-14-07-48-audio.m4a.wav|stuffy nose
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3d3991df-c596-4a19-8533-37f298b1a5a12018-09-02-14-39-54-audio.m4a.wav|sick
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript20c4628e-74f2-438f-9258-05a1202440062019-01-16-14-10-49-audio.m4a.wav|chubby
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4edca02a-637c-4a95-975e-46097bdd12ba2018-11-20-14-34-56-audio.m4a.wav|Nice
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta603cdbb-10f0-446e-b6d9-1a6d6e2d27822018-06-24-15-31-48-audio.m4a.wav|That’s OK. Do you want to try again?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript855593a4-5674-4453-bbda-c1c161a5ec562018-09-11-20-59-58-audio.m4a.wav|Let's play the Pick It Game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfae59636-6c1e-44d2-9b84-5a3ccf5e3d452019-01-11-13-36-42-audio.m4a.wav|Let's review the words about time!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript79736829-3e35-4066-b7d5-1b6207b5c6032018-08-23-20-59-55-audio.m4a.wav|seven
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript927743bf-ad0a-48a9-9f52-307e6474f0052019-02-12-11-16-43-audio.m4a.wav|Tom likes touching the crabs.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9b414060-a9d7-44bd-879a-946d36ab22422018-08-26-13-18-50-audio.m4a.wav|ice cream
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbd202bef-6137-402e-a10c-c4ca576f934b2018-08-23-20-33-28-audio.m4a.wav|glass
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2c4e6aec-cc02-4994-97b5-d73a3039edb82019-01-16-14-49-36-audio.m4a.wav|Bear
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript12bee8fc-e78e-454f-8fbc-d78fb02306052018-11-20-14-04-32-audio.m4a.wav|More about animals!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript77ba745e-eac6-47de-9d1c-14743067fc342018-09-02-14-17-55-audio.m4a_truncated.wav|Noah
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta3972933-c3c9-4d34-943a-544ae94a82ae2019-01-16-15-12-48-audio.m4a.wav|Nest
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript79827aac-8d5b-467b-aba5-1a71c38b48902019-01-11-14-19-01-audio.m4a.wav|April
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript479842d7-434b-44c3-916e-ee2192bad86d2018-09-02-13-57-42-audio.m4a.wav|ladder
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta614c77b-d6a5-45d7-baac-0d6990298aee2019-01-16-13-56-24-audio.m4a.wav|dolphin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0fc7269e-25d2-49d2-8a7a-173a78d7beac2018-06-24-15-09-18-audio.m4a.wav|Awesome!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript544d4058-44b9-4b3f-9ce4-d4c84fe1910a2018-08-26-14-56-02-audio.m4a.wav|pea
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8259cf32-d5eb-489b-a71c-3c8ef0edeeab2018-08-26-13-40-37-audio.m4a.wav|moo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript545e0541-37f0-42cf-b437-6ba2699b49d12018-09-11-21-03-03-audio.m4a.wav|The pick it game is fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb6627eb5-d0ef-4c01-a515-c9ba2e381de92018-08-26-15-50-05-audio.m4a.wav|hamburger
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript935441aa-7e92-41db-b8b4-02bd0994e7922018-11-20-13-34-50-audio.m4a.wav|Right!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptff003ee1-393a-4465-be4a-807275f659d52019-01-16-15-31-50-audio.m4a.wav|X-written by E.H. Clark, illustrated by Poky Wu
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript901aec8f-c749-4b9a-acd4-aa55c6370e832018-08-23-20-47-57-audio.m4a.wav|pizza
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript32d4dea8-1975-419d-9e6b-bae30088a0432018-08-26-15-52-51-audio.m4a.wav|pretzel
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte4b79c4c-1fa8-4875-b503-4c2c7342eff82019-01-11-14-16-00-audio.m4a.wav|learn
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfd3e1a28-2d83-423f-a7d9-66a8cbf22ef02018-09-02-13-38-55-audio.m4a_truncated.wav|Merritt
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6293c6b3-a71f-43f2-be2a-f08a7b3e21832019-01-22-10-29-10-audio.m4a.wav|I use a spoon too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript733f0fa1-d1b9-4376-98b4-e36230ffbfed2018-11-20-14-45-26-audio.m4a.wav|Sneaker
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta03d679e-1495-4d7c-a5d6-b6d64353b5b62018-08-26-15-58-02-audio.m4a.wav|Dog
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta6255a58-5e70-4ee9-b324-632dfbc69a922019-01-16-15-09-38-audio.m4a.wav|Honey
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2119f788-3104-4276-a605-69c9196747462018-09-02-13-10-59-audio.m4a.wav|Alice
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf6c75494-8b33-4c60-a35f-7a60257c65312019-01-16-13-36-17-audio.m4a.wav|ruler
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta9f00c12-0935-44ca-8a6d-f1dd16c864a92018-11-20-14-43-26-audio.m4a.wav|Start
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0fc0fa4b-6f11-4597-9a40-ae273a4f43a42019-03-12-15-10-02-audio.m4a.wav|castle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbce4af83-6e81-4670-8bcd-6e86d3e408552019-01-16-14-22-52-audio.m4a.wav|dragonfly
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1087b876-d240-42ed-88a7-4571d8d2b1d82018-08-23-19-41-06-audio.m4a.wav|Great job! You were amazingly fast! You are ready for another level!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript83d06fca-72a3-4c00-8de4-ffdaa48788d72019-01-11-15-31-11-audio.m4a.wav|driver
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6f7f0200-9f53-4eec-b65a-3d8717791bd22018-08-26-13-52-41-audio.m4a.wav|brush
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6e968210-1ba3-4dce-ad80-76322a9fb5242018-09-11-20-43-47-audio.m4a.wav|Game! Game! Game! Pick It!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript658a63b4-7c5e-4ad7-a7ab-7a3bb125bb902019-01-11-14-29-13-audio.m4a.wav|early
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte56ede28-55c7-4291-bf7e-c1bdc3044b592019-01-11-14-09-07-audio.m4a.wav|left
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1ab46b90-4007-4441-b5e8-a74d8d9196102018-08-23-19-36-12-audio.m4a.wav|说
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb7b99d9e-2d8a-4019-9e99-76b1f6f55a642018-11-20-14-15-39-audio.m4a.wav|Let's learn some words about animals
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf99d4001-a34d-4578-a726-aae87f4569f32019-01-11-14-18-55-audio.m4a.wav|March
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript375152e4-4bef-43f2-889c-6bbef3f60a8b2018-08-23-21-04-45-audio.m4a.wav|girl
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript70782b78-71d3-4245-a00c-789974af426b2019-03-12-15-29-08-audio.m4a.wav|Tom hates the teacup ride.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptca7557e8-8da0-4c6d-ad61-64d785701ead2019-01-16-15-14-40-audio.m4a.wav|Quilt
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript46493aa1-bb35-445f-ba3c-11dba892a99f2019-01-22-11-58-47-audio.m4a.wav|This sweater is itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5d21472c-a863-4a08-bc9e-c633169b7ca32018-09-02-13-38-59-audio.m4a_truncated.wav|Nathan
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0eac248b-2247-49fe-aae9-dccda090fa942019-01-22-11-40-16-audio.m4a.wav|Add some orange. Peach!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd67181e4-da7c-4629-9ef8-8ea9c4edf42d2019-01-16-13-57-18-audio.m4a.wav|cucumber
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript85840b60-15af-4b98-ada6-b4e6f99ba5332018-08-26-14-02-27-audio.m4a.wav|snowsuit
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbf9e9a95-469b-42b7-8fe6-4ad9eb01aa182018-09-02-14-40-08-audio.m4a.wav|morning
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf6b93521-15d6-4c32-88d8-6a093a5197502019-01-16-14-21-33-audio.m4a.wav|gallop
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47cbf6ed-3498-4769-a47a-d231e1ed93ec2019-02-12-11-19-59-audio.m4a.wav|Candles.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptabbafb43-b75c-454f-8419-b167514faa6b2019-01-11-14-18-55-audio.m4a.wav|March
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd1ea336e-e386-43aa-8f42-d6b4bb7eebd92019-02-12-11-04-35-audio.m4a.wav|Where do you live? We live near the snow.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5914c2a7-6892-4217-a574-5e7cf43c582b2018-08-26-13-58-58-audio.m4a.wav|tummy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript513eaf9b-b1c3-4c38-9d02-be9e5898812a2019-01-16-15-31-18-audio.m4a.wav|Violin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5e78d7bd-507f-4979-9e77-e8e70f000ba52019-01-11-14-42-12-audio.m4a.wav|winter
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript38cc6e30-4745-4be0-a007-fc7afa2bf1412018-06-24-16-12-59-audio.m4a.wav|big(slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte95f37d9-b67e-4d2c-aa15-df125ba5ecd02018-11-20-14-43-39-audio.m4a.wav|New
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript417ced0c-cea9-44b2-ad36-c501964208732019-01-22-10-13-57-audio.m4a.wav|I use a knife to eat steak.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript12dc5b1b-abfe-4cfd-b255-ab7a88b8f7362018-08-26-15-21-18-audio.m4a.wav|finish
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0bd6d956-cf2e-429a-bffd-1abec2c1cea22018-09-02-13-33-02-audio.m4a.wav|Foster
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9b28d182-4738-4d31-93f8-a17c4fe8815d2019-01-11-15-50-01-audio.m4a.wav|ski
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6abb5827-514f-4ff2-8e7a-b748328e0c1b2018-08-23-20-00-08-audio.m4a.wav|socks
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1814e550-ae8f-4b67-97c3-40f2cfe7aa782018-08-23-19-56-40-audio.m4a.wav|Emmm...
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta20b2e0e-3db6-472a-aa44-b018a968dc252019-01-16-13-36-24-audio.m4a.wav|iPad
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1d7cb1fd-1084-4115-8f12-d21491a3a4ed2018-08-26-13-42-57-audio.m4a.wav|lamb
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript86baab70-d1e6-43cd-81c3-dc06bc3c15a32019-01-11-15-30-53-audio.m4a.wav|shy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript281eb7dc-b0a3-49a0-b8bd-8e31709a1c932019-01-16-14-34-32-audio.m4a.wav|hummingbird
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbf7cf030-b3ef-4c7c-96ad-14c27504ee4c2018-08-26-13-57-59-audio.m4a.wav|chin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1b8011b7-fb0f-4c57-a3b4-c8a12263886c2019-01-22-10-51-54-audio.m4a.wav|I can use a wrench.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript318340c1-aee1-4a15-830b-2e21b2bdb9802018-08-23-20-26-10-audio.m4a.wav|purple
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfc016845-7272-4bf0-b212-ca00cfb6f2912018-06-24-15-50-07-audio.m4a.wav|chicken(slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0e089806-d57c-4b98-a7e2-e7700d32f8822018-11-20-14-17-55-audio.m4a.wav|That was great! I hope you enjoyed the game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0cd7e3f1-fb4c-4fc8-8c26-14b97398e8ed2019-02-12-10-19-40-audio.m4a.wav|Underwear.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1daba516-fdaa-4c38-8f3f-886684d041102018-11-20-14-08-06-audio.m4a.wav|Fruit words are fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc4ec3c01-0465-40e5-8609-a720e43e6d152018-09-02-14-05-46-audio.m4a.wav|street
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8217de13-7e36-4de0-867a-d0faf67dea402018-11-20-13-23-56-audio.m4a.wav|Please pay attention.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript311c932c-9860-4d8b-af45-2469c7af6ad12018-11-20-13-53-55-audio.m4a.wav|Let's learn about toys.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5f3354a6-2612-4276-9509-4265ee1781af2018-08-26-15-35-34-audio.m4a.wav|pretend
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript64585f1f-e28d-4c0b-8307-91e4c2af27302018-09-11-20-58-04-audio.m4a.wav|Let's play a Train Game! Choo choo!!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3b3a2281-0fe1-4880-a5b7-d521ee65cbfc2019-01-22-12-14-05-audio.m4a.wav|My mommy likes to shout.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf7c9ae0c-bce9-41f4-86f6-48ec1511e3e22018-11-20-14-03-16-audio.m4a.wav|Alright!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfef664f3-5c57-456d-9511-ecaae71b25572018-09-02-14-32-54-audio.m4a.wav|work
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb31cc432-e0cb-4e4e-b16b-573b38ce68712018-08-23-20-27-16-audio.m4a.wav|golden
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptddab689b-641a-4dd3-8cc5-de681674ccaf2019-01-16-14-38-30-audio.m4a.wav|foal
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript025af5a0-a1ac-4e8f-8456-838b14ae1ae02019-01-11-15-16-11-audio.m4a.wav|notebook
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf36ec6d6-0828-4cfe-933b-6430bb2ff7fc2019-01-22-10-29-04-audio.m4a.wav|I use a spoon too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaf4e91ed-3741-4d71-a88d-3aee50fec6e92018-08-26-14-44-06-audio.m4a.wav|moon
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte5ea62c1-3c3d-4171-aef2-ca395ceabfac2019-01-16-14-22-13-audio.m4a.wav|grasshopper
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9a419f2b-378d-47da-9f67-d45ff062a27d2018-11-20-13-30-07-audio.m4a.wav|How are you doing?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript391aa33c-53b7-4150-8cac-c27b705731a72018-08-23-20-07-59-audio.m4a.wav|tiger
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9e548b28-ca09-439a-ae9d-0751fb8955f02018-11-20-13-40-02-audio.m4a.wav|Wow! Words in a house!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript605fbff9-4076-492e-adbc-4486b08632522018-11-20-13-49-36-audio.m4a.wav|It's review time!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc4b9f803-ea53-4e97-9697-b93be9974ecb2018-09-02-13-19-51-audio.m4a_truncated.wav|Lisa
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript92bfb37e-40ac-4dd0-b595-5ad9707781f02018-11-20-14-40-35-audio.m4a.wav|Cloudy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte137a9b3-58db-44e2-84a3-109b3f9246702018-08-26-15-26-44-audio.m4a.wav|buy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2b135e7d-0f70-4027-b079-a416b35f69082018-08-23-20-01-38-audio.m4a.wav|duck
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptac210e73-1fdc-438e-b7e9-a0bbc4800bc82018-11-20-13-41-28-audio.m4a.wav|I love the things in a park. Let's learn their names again.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript83f6d9ba-3ed8-4448-867e-d3632bae71182019-01-16-13-56-30-audio.m4a.wav|stump
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3011a48a-f257-45ee-9790-cd42277d60d52018-11-20-14-12-24-audio.m4a.wav|Appliances!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc095e2cc-3fde-4bba-8a1b-baafce95f0552019-01-22-10-10-22-audio.m4a.wav|A second.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte8691deb-86fa-40e2-ae35-c0471a94c4932018-08-23-20-22-54-audio.m4a.wav|skirt
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript387652d6-5529-48ea-9d1e-30fc9faf67042018-08-23-20-33-32-audio.m4a.wav|glass
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptddf2873f-c3f1-4ca5-af57-cff2d9235ba32018-06-25-21-37-07-audio.m4a.wav|The answer is
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf17dc608-9ae8-4558-97e9-963e6855c9552018-08-23-21-13-24-audio.m4a.wav|chocolate
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8351ae77-8960-4a0c-9365-61d1614c57032018-09-11-21-06-43-audio.m4a.wav|Let's try to play the Train Game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9420e8fe-9f73-413f-b873-8def474cfee12018-08-26-13-49-43-audio.m4a.wav|blanket
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript04da8e37-62a0-442c-a9d8-5a22b5a4c50f2018-08-23-21-12-39-audio.m4a.wav|heart
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd69e1950-eba2-4fca-89c9-0db11e9b0a372018-11-20-14-44-38-audio.m4a.wav|Pilot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0a5063ac-1cac-4b11-b74b-7b2bd9ac735b2019-01-22-10-34-04-audio.m4a.wav|My father teaches other people. My mother teaches other people too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6e70e089-29d6-45e5-a1ec-083393fe20da2018-09-11-20-52-04-audio.m4a.wav|Echo reading! Echo... Reading! E...cho... Reading!  (say like an echo) I read. You repeat. Repeat... repeat... repeat! (silly voice gets louder)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9f2e074b-ba03-4b82-a760-c428caf18c5f2019-01-11-15-02-59-audio.m4a.wav|fever
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript26af02d3-442f-43e4-90bf-13d66af366b32018-11-20-14-17-01-audio.m4a.wav|Game time! Please match the pictures with the correct words.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript06a57193-cd0f-450e-9bc0-6520ae42d1552019-01-11-14-39-15-audio.m4a.wav|field
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2d881c77-9a3f-4020-b43c-ece6e2b0b5182018-11-20-14-20-54-audio.m4a.wav|Hi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5dd5a337-e011-4934-bd50-67c3d49186ef2018-09-11-21-01-03-audio.m4a.wav|Thank you! See you next time! Goodbye!!! (build in excitement)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript39dd9fa3-9081-46e4-a05a-c87f4758139f2019-01-16-14-49-04-audio.m4a.wav|Alligator
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4ae76c4d-a913-49fc-9ec1-41e6064fb1cd2018-11-20-14-31-32-audio.m4a.wav|spider
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript37f6570a-b303-4312-8e12-39f89d511d312019-03-12-15-41-45-audio.m4a.wav|Emmm. Well Done!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfb934a0f-ba49-41d8-8f76-5dcb6dce35672018-09-02-13-15-57-audio.m4a.wav|Hillary
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte3c6a8b4-8cb2-4b42-b8d0-605b8f8a06d82018-11-20-13-27-45-audio.m4a.wav|Let's get started!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcd5d7983-ea92-4a14-8e2b-c2ff24f0e5f92018-09-11-21-09-46-audio.m4a.wav|Try touching the picture.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript85c2b783-1347-4c63-b345-d2d733a7ea9a2018-11-20-14-05-21-audio.m4a.wav|Snacks... yum yum!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript38b8ee91-5ff5-47d9-b746-084ada1baa3f2018-11-20-13-47-27-audio.m4a.wav|Guess what we are going to learn?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript960c3118-cb90-4569-978a-d043e65c10102019-03-12-15-25-57-audio.m4a.wav|One vanilla.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9b02abcf-f202-4a49-9980-f3a864bf9f2e2018-08-23-20-57-50-audio.m4a.wav|lunch
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcef2a8d8-bea9-43f4-9d36-23eefbb418402019-01-16-15-32-39-audio.m4a.wav|Yolk
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript46b1645c-bf22-4ec2-87fb-0cc35b5cf1cf2019-01-16-15-14-34-audio.m4a.wav|Queen
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript342c1263-9807-4f5e-b9af-3bbeed2d76ad2018-06-24-16-13-34-audio.m4a.wav|cold(slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta97c36c3-1bcc-4872-bab1-2503e876ae4a2018-08-26-14-49-33-audio.m4a.wav|pudding
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte2232c16-300d-4b40-bb2c-737491472ae62019-01-11-13-57-09-audio.m4a.wav|Loud
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7c0c4bf1-14da-45ec-899b-9777bd09c03c2018-11-20-14-08-54-audio.m4a.wav|Let's learn breakfast words!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2a1a5451-398d-4178-83ab-db3c14e1f1052019-01-16-13-25-32-audio.m4a.wav|squeak
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6bc0b9ad-895d-4a4a-81b9-82b200dee7802018-09-02-13-36-20-audio.m4a.wav|Joe
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcf9a3b7e-b5dc-4f74-add9-d8f0454aabb32018-09-02-14-17-55-audio.m4a.wav|Noah
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript082b0f55-e4bc-46ae-9e5f-fccd3484fc462018-08-23-20-27-42-audio.m4a.wav|brown
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2bf2dac3-4117-40b7-9f53-d860ee5bdb432018-06-24-15-11-28-audio.m4a.wav|Yes!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript23ebd234-fa35-4734-a2f0-4c75a9d4b3aa2018-08-26-15-16-06-audio.m4a.wav|open
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8e6d4a14-77bf-42b3-9a89-ee7f24a784a62019-01-11-13-56-49-audio.m4a.wav|twenty
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7b0fca3c-31e9-4f80-9afe-ebeace2205152018-09-02-13-30-25-audio.m4a.wav|Claud
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptebfc4796-350d-4fab-ae50-31a2c53d4df12019-01-11-15-30-18-audio.m4a.wav|sharp
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript114435e0-13ba-46e1-8b37-dfff2d58d4a02018-08-26-14-49-43-audio.m4a.wav|muffin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript718b2f44-5faf-4a0b-bb09-7a0fe3b6756b2019-01-22-10-09-53-audio.m4a.wav|A minute.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta1c09ebf-1b77-427d-92dd-f266123ab6462018-09-11-21-00-14-audio.m4a.wav|I like the Pick it Game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8d0d04b8-dcde-46ad-8d35-c4cb9964631d2018-11-20-13-44-36-audio.m4a.wav|Well, let's look at the words about the beach stuff again.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcc96d8b6-3bcd-4aaf-9f23-bc819859c9192019-01-22-10-12-29-audio.m4a.wav|I use a spoon to eat soup.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5cb5bf0a-614d-43d2-bf54-1a1158a625172018-09-02-13-43-55-audio.m4a.wav|Samuel
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3d46c9bc-8e28-4ba9-b83e-7eff15af65352018-08-26-15-09-00-audio.m4a.wav|carry
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte5ed5bb1-47b7-4036-a608-5e2cf5f3d0b52019-01-16-13-26-34-audio.m4a.wav|poop
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5e11d73a-837d-4539-915e-f588897feda52018-08-26-15-47-54-audio.m4a.wav|pickle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript17462102-8dca-4edc-ab9f-f41b0f3ccf232018-09-02-13-54-41-audio.m4a.wav|telephone
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbe241a0d-7a74-4019-aeb9-8015707164212019-01-16-15-10-20-audio.m4a.wav|Insects
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript07aa7604-2bce-4ee2-afcf-b3e2c76b04cc2018-11-20-13-33-12-audio.m4a.wav|We are going to learn some animals sounds. It's going to be really fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2de44dc5-aeff-48fb-bad0-82406fc388eb2018-11-20-14-27-17-audio.m4a.wav|thirteen
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte079fbc4-0c4c-4f91-bcea-2545e20b25942019-01-16-13-56-59-audio.m4a.wav|scrub
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2c1730f6-89c1-4686-9df2-2c3fa7887caa2018-06-24-15-04-05-audio.m4a.wav|We’ve learned quite a few words. Now, let’s watch a fun music video. Hope you’ll find quite a few familiar words in it. Enjoy!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte9349920-93a6-4c54-b6e8-32a5dca11d3b2019-01-16-14-38-47-audio.m4a.wav|pufferfish
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript996c98b5-f97b-4a44-bec1-7ac716fbad1c2019-01-16-15-10-41-audio.m4a.wav|Jam
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf88f1ab2-b283-423d-911f-f2f76ac337112018-08-26-14-01-18-audio.m4a.wav|butterfly
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb5997669-d96f-4d6c-974d-adf45ebf665d2019-02-12-10-20-58-audio.m4a.wav|Great job! You unpacked the ship!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte2437c28-dd28-4382-bdff-e0c5192c8b862019-01-11-15-19-20-audio.m4a.wav|backpack
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8fd98edf-a6be-4ebd-b38a-c394be0e2d1d2018-11-20-13-39-11-audio.m4a.wav|Let's learn some action words.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9eb13b73-4c1d-4344-9127-71a6e8ae4d082018-08-26-13-58-06-audio.m4a.wav|cheek
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5836ee21-b80e-4004-b0ed-2be830835b682018-09-11-20-57-16-audio.m4a.wav|Let's play Match It Game! (excitedly)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript64f708b4-f81d-4d91-acd8-b4ba356a02882019-01-22-11-16-20-audio.m4a.wav|Sixteen liked sailing!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0b068077-5b75-408f-aca5-3379448e371d2019-01-11-14-19-26-audio.m4a.wav|June
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripteb9aede3-b5ac-4919-bb15-f16745f765012019-01-16-13-59-16-audio.m4a.wav|gill
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript063c6df1-520c-4a97-8efe-bd0f0c2f81de2018-08-26-15-47-49-audio.m4a.wav|nut
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf2693d4a-c409-40aa-b038-36281eca1b152018-11-20-14-45-54-audio.m4a.wav|Great
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0569bbcd-20b4-40e3-ae2b-28c4d13ed5992018-09-11-20-53-36-audio.m4a.wav|Whew! You did it! (misc excited phrases/sounds)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf74b32b3-2595-415b-8866-6bd9bf0d6d232019-01-11-16-02-05-audio.m4a.wav|violin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript89871b98-e3e2-4c94-8eb8-a9e178797b412019-01-22-10-11-06-audio.m4a.wav|Ok! Let's go!!!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0da0e38f-7dbc-4aa2-b527-f95613f731e22018-09-02-13-42-01-audio.m4a.wav|Roger
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript60ec733b-d697-4480-a827-cf60fe4eb3e82019-01-22-10-51-22-audio.m4a.wav|I can use goggles.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5c19516c-9bef-4c15-86ce-ef6f4d7027e42018-08-23-20-16-43-audio.m4a.wav|knee
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript227b1a66-08be-4a9f-8592-a5203dc97aa92019-01-16-15-10-46-audio.m4a.wav|Jam
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript08ce3d1f-72b3-409b-8e42-5d436ace8cf42018-09-02-13-10-35-audio.m4a_truncated.wav|Ada
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcf8285de-5de9-4503-80d4-4ca4df580a612019-01-22-10-17-19-audio.m4a.wav|In a minute.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript577b3fde-711f-494e-8467-5e18179671602018-09-02-13-15-13-audio.m4a.wav|Elisabeth
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptba929149-fc09-499b-b822-27f758af63a82019-01-16-15-08-20-audio.m4a.wav|Fire
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0b8a589d-00e2-4fb2-a068-3185ee1660432019-01-16-13-34-24-audio.m4a.wav|awesome
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6bf07fdb-092b-46d2-ade0-17fa99b7db2e2019-01-22-12-00-10-audio.m4a.wav|I'm so itchy!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdad00afc-4da6-41f9-ac21-3decc06a629f2018-08-26-15-43-14-audio.m4a.wav|dark
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript35caef6a-55e3-4c98-a5f5-af267dd7938a2019-01-16-15-12-28-audio.m4a.wav|Mushroom
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8ec45aa4-1962-422b-bb75-5a13838a666b2018-09-02-13-46-51-audio.m4a.wav|Wilson
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta345fad0-822c-40b6-b311-bce354eeec842018-11-20-14-43-58-audio.m4a.wav|Old
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7f0587f1-8b47-47dd-9a16-93f45370582e2018-08-26-14-33-33-audio.m4a.wav|tree
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript576d18ec-65dc-4b49-a61d-3164eb11153f2019-01-11-15-26-23-audio.m4a.wav|taxi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2343d2a0-4e36-41a6-9b47-be0778307fee2019-01-11-14-50-53-audio.m4a.wav|vampire
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3761bdd5-4cb3-43b7-8e49-352b6fd1baff2019-01-22-12-14-39-audio.m4a.wav|My mommy likes to build.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript32ed444e-f423-4f40-abd2-9648d4b8dce52018-06-24-15-49-53-audio.m4a.wav|eat (normal)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1c63c974-0aff-4745-891f-2545d2a94ad22018-09-02-13-46-29-audio.m4a.wav|Victor
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc036cb0f-6d08-4433-992c-961f33b0c7792018-08-26-14-49-39-audio.m4a.wav|muffin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript412703ea-f0fa-433a-ac8d-4aa2e95892652018-09-02-14-18-04-audio.m4a.wav|George
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript771b61f3-cdf4-41ba-8595-44c3728b753c2018-08-23-21-12-34-audio.m4a.wav|heart
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte309a78d-63f3-43c5-8d91-2ec9c50aa0902018-09-02-14-29-08-audio.m4a.wav|bye
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte8d37efd-c014-4c0d-9027-a70159394fa02018-08-26-13-53-13-audio.m4a.wav|sink
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript207ee44a-f9a6-4457-a081-780d51d281fa2019-01-16-14-35-08-audio.m4a.wav|tiptoe
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf65416e6-14cb-4cc7-93d3-70d8b671962e2018-09-11-21-08-32-audio.m4a.wav|Welcome to my fun reading Class. Hooray!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript58d70177-89d1-4461-87c9-b9a24781b7292019-01-11-14-28-41-audio.m4a.wav|muscle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte3ae2311-a762-4468-a1bb-cf888573782e2019-01-22-10-52-10-audio.m4a.wav|I can use a hammer.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte1f53297-9821-40ed-b758-778d1ae3ab912019-02-12-10-51-24-audio.m4a.wav|Dolphins play in this tank.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta7cf620c-7f8e-49d2-ade1-30a535ed192b2019-01-22-11-41-44-audio.m4a.wav|Yum rainbow soup!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6cde4aa5-6190-4d9d-8e8c-810e398033e52018-09-02-13-33-11-audio.m4a.wav|Franklin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7e507395-56e0-4117-9d71-34f244e5b3422018-11-20-14-31-58-audio.m4a.wav|beetle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd809f4c7-dfb7-4619-8e34-1d7ae20d8d5f2019-01-22-11-17-38-audio.m4a.wav|The hamster is on top of ...
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript42ec7328-65b4-45a1-85ee-12342a1ef30f2019-01-11-16-00-44-audio.m4a.wav|grab
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript72d88961-8d98-4a11-8d14-b423e7529f3b2018-09-02-14-07-47-audio.m4a.wav|chalk
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf844d9a7-e21d-4f04-91df-76ad349cf6a32019-01-16-14-09-10-audio.m4a.wav|cub
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7c09b3d5-2845-4d12-93ee-416bccd755802018-11-20-14-26-21-audio.m4a.wav|Second
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript54a121b7-b402-4316-afd2-6e4735f6ca1d2019-01-16-14-37-09-audio.m4a.wav|seagull
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1e819e98-ff2d-4ea4-8623-cce00fcdd9502018-08-26-15-40-29-audio.m4a.wav|think
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript74059d91-8115-49c9-91f0-80bf2ae978582018-09-02-14-16-05-audio.m4a.wav|Whew! You’re back! I was worried you left!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript72fb10a9-d5af-4741-97b7-ffd0756bfb632018-08-26-15-49-50-audio.m4a.wav|green bean
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5b79e9f6-0940-461e-aa9d-5eb0ea4158f02019-01-16-13-58-54-audio.m4a.wav|feather
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta2ee9c73-8bdd-4e04-9123-f4edc98a1e772018-09-11-21-15-16-audio.m4a.wav|Awesome! I love it. This is so much fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2619bc11-94ca-4790-a8bc-f2f6a9e711c12018-11-20-14-35-50-audio.m4a.wav|Goal
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript91eacac2-e925-4b7f-af0b-8291bac28e982018-09-02-13-21-30-audio.m4a.wav|Lucia
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1b51df7a-8cc9-4424-b98b-0bbece1e0e512018-09-02-14-40-48-audio.m4a.wav|she
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptddbc5d85-ceaa-437a-afcf-43fd4cc898d92018-08-23-20-01-56-audio.m4a.wav|animal
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd4798c61-056f-4013-b509-31268af7c6b22018-11-20-13-46-23-audio.m4a.wav|Words review!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript61f75e04-7c40-4fa3-8a27-f86c464b39712019-02-12-10-52-53-audio.m4a.wav|Foxes.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript46373b78-ab51-4cd6-81d9-8b20aa8783b82018-09-11-20-29-01-audio.m4a.wav|Tap the word.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptde05e06a-02dc-45ac-8a4b-6afc48ee2f192018-09-02-13-57-28-audio.m4a.wav|hose
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript72dc416f-356c-440c-8067-71fbf4a2992d2019-01-16-13-48-23-audio.m4a.wav|lobster
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf14a2484-99f8-4a24-9ae7-2f7af4ef4c642018-09-02-13-44-13-audio.m4a.wav|Smith
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript97b90266-0ae8-4aea-be8c-0f66ce7c0ca52018-09-02-13-22-31-audio.m4a_truncated.wav|Rosa
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb4c49edb-3caf-4087-9553-78628f266c062018-09-11-21-06-22-audio.m4a.wav|Let's try to match some cards in the Flip It game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript00b8a4ae-d259-43a3-8bce-f1c49950913a2018-11-20-14-23-00-audio.m4a.wav|Dirty
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript78313417-32a7-4f94-ac1c-91cdb60594b92018-08-23-20-33-32-audio.m4a.wav|glass
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript26015d25-f38e-4251-a132-fee16c6892722019-01-22-11-34-43-audio.m4a.wav|He lost his backpack.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript33342c5b-a5ab-449d-b7fa-16a9d2761c362018-08-26-14-02-00-audio.m4a.wav|jeans
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripted16a907-f64d-4bbc-903a-57ed859350012019-01-11-13-38-55-audio.m4a.wav|Yeah! I like this color!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript77a23a68-1a64-4a87-bc31-1b6c56c2a9a92018-08-26-15-23-23-audio.m4a.wav|build
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb022f3a8-2745-4e22-ba43-a9a8f7c0b7242019-01-22-10-37-32-audio.m4a.wav|My father teaches. My mother teaches.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripteb68f063-8994-4d71-b6c3-454920f47db22019-01-16-15-14-18-audio.m4a.wav|Quail
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8397d237-9b60-4ef3-b2e3-63f86aa536952019-01-16-13-23-16-audio.m4a.wav|skip
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc595fa94-5cc3-4ac8-9127-f3bd4207a1102019-01-16-14-34-45-audio.m4a.wav|fawn
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9238163b-96fa-4d98-b5c8-ea06eaa705b42019-01-22-11-59-38-audio.m4a.wav|These bites are itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript70a0656f-41ad-4956-ae11-860e2e5697002019-01-11-13-41-59-audio.m4a.wav|Let's review the words for clothes!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptec77a4da-ee56-43ed-95f7-30589d366d012019-01-22-10-13-39-audio.m4a.wav|I use a knife to eat chicken.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaeaf8290-a063-4dd2-9caa-51afcd893f732019-01-16-13-25-56-audio.m4a.wav|shampoo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2160c501-2f0b-4c00-a8d8-79f2aa5856f12019-02-12-10-50-41-audio.m4a.wav|Jellyfish float in this tank.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript16d0951c-ed27-41c8-9faa-da5d70455db62019-01-22-11-16-06-audio.m4a.wav|Fifteen liked fishing!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte8bb7844-61a6-422c-841d-c5c9ce7340452018-09-11-21-33-11-audio.m4a.wav|This owl is near.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptebeda2dd-f81c-4ab1-bb84-c379628e4dab2019-01-11-14-45-09-audio.m4a.wav|cool
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3f140840-207c-45a4-b66a-ceb2a02750772019-01-16-14-49-47-audio.m4a.wav|Bee
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf90790b3-5737-4be3-9049-9f65441bebaa2018-08-26-14-05-22-audio.m4a.wav|up
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3b4ce8b9-9b7e-4e44-8554-75f39461269b2019-01-22-10-36-13-audio.m4a.wav|My father leads. My mother leads.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9f72ebc8-4739-4dd3-b899-2fff623179382019-01-16-15-32-34-audio.m4a.wav|Yacht
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcb6104c2-7488-48e2-bcfa-3e89ba647b982019-03-12-15-30-08-audio.m4a.wav|Tim hates the ferris wheel.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript19219c4b-817a-4cca-a797-94dd8beee94a2018-09-02-14-43-13-audio.m4a.wav|time
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta3a29793-8d51-4cd5-ac9d-b6c1450218dd2018-09-11-20-33-30-audio.m4a.wav|Listen then touch the card!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript37ab320f-b6d3-4673-8419-ab0e2a6a5b152018-09-02-14-03-13-audio.m4a.wav|basement
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd30361e7-51a0-4b85-8dd5-ed7685be9fe82018-11-20-13-33-49-audio.m4a.wav|Fun review time!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9f1e007d-a262-4520-9774-01bb7d3b92462019-01-16-14-21-55-audio.m4a.wav|snail
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6ffd0f2c-59d6-483f-966b-4cdcb4c299122019-02-12-10-21-13-audio.m4a.wav|Listen to the word. Tap on the card that is wrong.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta66638e5-6e73-4c7e-b6da-1e289baea90c2018-08-26-14-29-34-audio.m4a.wav|door
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptec185aef-9566-42e9-9b35-5b59f6ba12002018-08-26-14-52-14-audio.m4a.wav|game
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript898c0f2a-12e4-48ef-9992-ee6d8e1dde262019-01-22-11-36-15-audio.m4a.wav|He cries in the crib.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript02518e64-2999-451f-8686-96730236cb9c2019-01-22-10-16-48-audio.m4a.wav|When can we go outside?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta1f6d729-821f-4c20-a587-b93371cb3ffe2018-11-20-14-37-07-audio.m4a.wav|slippers
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptac1c02dc-fdc6-4772-a6ee-1c4d09a8066d2018-09-11-20-57-38-audio.m4a.wav|Let's review! Let's look at your reading!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb954de46-1f27-4ba6-a0c1-0cfc02720d7c2018-08-26-13-58-47-audio.m4a.wav|bottom
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc72fe3a4-4663-46f1-b27f-405ea94137282019-01-22-12-18-29-audio.m4a.wav|Oh, our letters are hungry. What do they need? (listen) Right, worksheets! Your worksheets are their tasty snack. Let's see if their snack is ready.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfa3a61de-7b3f-4111-a056-0eb72c709ad82018-08-26-15-11-23-audio.m4a.wav|pick
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3ace5c89-943a-41bd-a0c9-9692da68e5d32019-01-22-11-59-50-audio.m4a.wav|This blanket is itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript93829755-98d9-4fe0-9175-3ab56569e3662018-08-26-13-58-17-audio.m4a.wav|ankle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc3f803c6-eb97-4c39-a3ba-4f40e42bbec02018-09-02-14-29-44-audio.m4a.wav|yes
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptce2d22c2-2a55-4651-8947-02d8ae65cb712018-08-23-20-22-48-audio.m4a.wav|clothes
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptda23d639-72cf-4578-b74b-1cec78bd27c02018-08-23-21-12-25-audio.m4a.wav|square
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript43daf9ed-548e-4fc4-af28-b076b3ce5a362019-03-12-15-16-48-audio.m4a.wav|Let’s Race! Tap the correct pictures.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript27b9764a-553e-4c17-95f2-89774c6760292018-09-11-21-05-55-audio.m4a.wav|Let's try playing Pick It Game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript850c302a-e065-4023-b0f7-f905e8b2aa602018-11-20-14-35-13-audio.m4a.wav|Fast
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptecd29835-9d52-44fe-a10b-0f43e494d73e2018-09-02-14-17-40-audio.m4a_truncated.wav|Michael
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf0dccab0-e2b8-4128-b135-c022764cca112018-08-26-15-24-04-audio.m4a.wav|hurry
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbafe3441-1f67-46a1-93f0-b4ef1946b45e2018-09-11-20-49-23-audio.m4a.wav|You did it! Wow!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript79118fa1-28b7-4625-9cd3-1dddc9aa2e2a2018-08-26-15-28-46-audio.m4a.wav|dry
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4fbc62f0-5a0a-4830-8925-a9f74986277f2019-01-22-10-32-14-audio.m4a.wav|My father cooks food. My mother cooks food too.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript954032de-af49-4c58-9e9c-54c1855079832018-09-02-13-25-12-audio.m4a_truncated.wav|Zoe
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaa00f088-ad21-47cd-8b54-4d02b780a0ed2019-01-16-15-32-39-audio.m4a.wav|Yolk
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript729cbaa1-396a-472a-b31d-33e38d847f162018-09-02-14-25-18-audio.m4a.wav|I can only see part of your face! Please put your face back in the screen.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcdd35119-6736-4376-aca8-ce5c7ffe2ada2018-09-11-21-32-42-audio.m4a.wav|That lion is far away. (slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript334dc773-b3bf-4d9c-bcd5-1765248e065d2019-02-12-11-03-41-audio.m4a.wav|Where do you live? I live in the wetlands.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptced729e0-f991-478a-aa73-1e2eebc010882019-01-11-14-41-47-audio.m4a.wav|summer
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0f7a9da7-d6b4-48b8-81a0-681041003f842019-01-22-10-57-24-audio.m4a.wav|Please, help yourselves!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1f577371-ec25-41ac-b362-dacfb1a8e2002019-01-16-13-24-57-audio.m4a.wav|roar
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript535c9a8c-35cf-4c54-894d-f687e9f291a82018-09-11-21-36-45-audio.m4a.wav|Oh! It’s a deer...it’s far away!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte5e04ad7-84bf-40a2-98ea-cdb663c6bdb32018-08-23-20-11-05-audio.m4a.wav|shampoo
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9edf7bbb-8aaa-4f92-910d-43687736b3cd2018-11-20-14-43-58-audio.m4a.wav|Old
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta2e81bd7-94cc-4055-9750-800a42ed74812019-01-16-13-36-36-audio.m4a.wav|eraser
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3eedb414-424d-45c6-beed-6d71e81d0abf2018-09-02-13-56-52-audio.m4a.wav|tray
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5065b1b8-d763-4df9-9f5f-4d18219bd9f62018-09-02-14-32-14-audio.m4a.wav|outside
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbf889e0b-8e60-4463-977e-84d8ed4d33f52019-01-11-14-13-07-audio.m4a.wav|they
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7353dd22-0b04-45d2-8c6c-f7bb7dd0ba372019-01-16-14-36-05-audio.m4a.wav|oink
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc308fea3-5222-436b-a52e-ac04848ccc0a2019-01-11-15-43-41-audio.m4a.wav|pink
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta2f5fddd-7784-4914-98b6-d2be7173999f2019-01-16-15-13-36-audio.m4a.wav|Ostrich
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5a7885b3-4bd9-4eb9-97d9-76e0ee00b1af2018-08-23-20-02-02-audio.m4a.wav|animal
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript45e70680-b7be-4b68-98c2-febec143e7932018-09-02-14-17-40-audio.m4a.wav|Michael
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7c67d344-4eb7-43cd-bd3a-959b9c10e8df2018-08-23-20-08-16-audio.m4a.wav|poop
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript40016b27-cb55-4e30-a85b-982977bb334f2018-08-23-20-50-44-audio.m4a.wav|grape
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript864f1980-29bb-44da-9444-01eaa47b20992019-02-12-10-53-22-audio.m4a.wav|Bears.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3fe462ff-ca55-4b9f-95f7-864e0a0a277e2018-08-23-20-17-22-audio.m4a.wav|eye
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta97ca096-2364-4d5d-95f5-e94c61cc81342018-08-23-20-01-44-audio.m4a.wav|pig
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2e9927d9-8869-49ed-b363-9bfa0eb1a12c2018-11-20-13-35-57-audio.m4a.wav|Animal names time!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2c3e98ef-c419-4855-8b01-b77a088578ea2019-01-11-14-36-18-audio.m4a.wav|rectangle
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript14af3595-f8e6-438f-aa4a-810092eb33db2019-01-11-14-22-01-audio.m4a.wav|October
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf7461691-1aa9-4661-ac77-0682bf7047e82018-08-23-20-02-02-audio.m4a.wav|animal
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3325ae63-4db4-4f3b-85dd-7c08ce6468d12018-08-23-20-41-21-audio.m4a.wav|brother
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte60e5937-6ae5-415d-8e12-b76cb5ae581f2019-01-22-10-58-52-audio.m4a.wav|Bye!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript62218f07-64ed-48b2-9d97-e61f3e48574d2018-08-26-14-52-09-audio.m4a.wav|game
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6416612a-6ccd-4e03-b4d1-7c62983368212018-09-11-21-00-45-audio.m4a.wav|I like the flip it game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript27020f70-e497-4019-bb24-aa2d6dd19a422018-11-20-13-59-32-audio.m4a.wav|Yummy food!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5fde15e1-f8c9-4a78-aba8-1340dddfbeb02019-02-12-10-41-03-audio.m4a.wav|This sidewalk is rough.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbc759cbf-cbce-4c4e-a247-b830dd3cd7172018-11-20-14-20-35-audio.m4a.wav|No
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript82cb9de4-ab37-40b6-af68-c4688f13a7232018-09-02-13-43-51-audio.m4a_truncated.wav|Sam
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript66e26691-1500-4de3-8b67-343d533559132018-08-26-15-55-52-audio.m4a.wav|bucket
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript98777052-7f04-4e6c-a6fc-44edeb91c35a2018-11-20-13-30-24-audio.m4a.wav|Remember my name?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaa3c1553-cd07-4e04-820f-fd72059659132018-11-20-14-21-47-audio.m4a.wav|Toothpaste
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1cd79906-8102-4191-9c33-74c2254b78732018-09-02-13-12-45-audio.m4a.wav|Blanch
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript389d35b3-9d14-4665-a41f-aa9bc31e1b4c2019-01-11-15-55-43-audio.m4a.wav|desert
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript70c895f8-0ef4-40e5-b54e-f066ee6ba1d62018-09-11-20-34-31-audio.m4a.wav|Let's play the Pick It Game!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0da51b53-2cb7-4c6b-9841-4e8158d250b72018-08-26-13-53-29-audio.m4a.wav|go potty
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2da0cfcc-2bd7-4557-9fd6-eb750a4a57432019-01-22-09-57-42-audio.m4a.wav|I see ten instruments.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptacb01f9b-fa24-472a-9228-19ba6b36951e2019-02-12-11-03-16-audio.m4a.wav|Where do you live? I live in the desert.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte6908daa-1d61-4d11-ba7c-358609a3a83b2018-09-11-21-29-28-audio.m4a.wav|bike
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf8f55fea-564e-4c95-ac49-64da88a59a2e2019-01-11-13-43-24-audio.m4a.wav|Today we are going to learn some colors!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb40228a9-b30e-4cb8-8817-f6bae8ca0c6d2018-08-23-20-00-24-audio.m4a.wav|count
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb7a4de0f-d403-4048-a9f7-109151bcdc842018-11-20-14-37-12-audio.m4a.wav|slippers
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd418b8a8-ac13-481d-ae0b-b97c48d1501b2018-09-11-20-20-30-audio.m4a.wav|Wow!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb2d41297-7f00-47f8-b70c-89edb7c08fe72018-08-26-13-27-47-audio.m4a.wav|taxi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript57e5487d-7647-4f16-be8a-a68877ae04a02019-01-22-11-56-20-audio.m4a.wav|Drop in some orange peach slices.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0a531f4b-3715-4814-8466-ca69a9a38a222018-08-23-19-27-12-audio.m4a.wav|你很棒！
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2eb03ceb-5e99-45b4-b821-9b7e18ac76fa2018-08-23-20-36-57-audio.m4a.wav|water
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc5d65f5c-3abe-4658-8f51-8b0fbf64b92a2018-06-24-15-48-15-audio.m4a.wav|meat(slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta0e7bd15-dc07-4bd0-adf4-b2b2fc690b242018-08-23-20-52-14-audio.m4a.wav|orange
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9128d653-4174-4336-9303-6ffd353147b92018-11-20-14-21-27-audio.m4a.wav|goodbye
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript40431529-41bb-460d-980d-2136d63a0b542018-08-26-15-40-56-audio.m4a.wav|work
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta3d762d8-b6c4-45b2-8165-cd3dd13128c32018-09-11-20-51-35-audio.m4a.wav|Let's start!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript470a72e6-6e79-414a-815c-3b24fe286ad62018-11-20-13-33-05-audio.m4a.wav|Thanks for coming to my class!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4e71b264-e155-4d85-a959-893276536a602018-11-20-14-36-25-audio.m4a.wav|Basketball
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript32bc1559-dd54-4eb6-8f75-181ccfc707562019-01-22-11-39-18-audio.m4a.wav|Add some yellow.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd90d9df4-78e9-4353-a090-198f42f31ecb2019-01-16-13-23-03-audio.m4a.wav|squeeze
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0e08d3e7-8a27-4a15-bbe0-8720f0ddb9952019-01-16-14-48-38-audio.m4a.wav|Ants
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript758004e0-1864-4bb6-9d57-199ffd40ba382019-01-22-10-54-50-audio.m4a.wav|We ate eighteen French fries.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript72a9bee6-4d0b-4a61-82f4-a0d8abd2b2212019-01-16-13-47-44-audio.m4a.wav|rocker
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf18b0d30-343a-4451-87ad-593d1b5bb2b42018-11-20-13-53-28-audio.m4a.wav|Let's learn some words about jobs.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript77e02393-c853-4f26-b16d-51335f3a13da2019-01-16-15-13-57-audio.m4a.wav|Princess
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript35e0bd3c-3d41-43f7-af2f-5148f056f5912019-01-22-10-13-21-audio.m4a.wav|I use a fork to eat noodles.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7f261bb6-1797-4734-a33d-d85236b2e7902019-01-16-13-18-09-audio.m4a.wav|crow
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0bed77cb-f9b3-4c34-b3ae-6f02115b609e2018-09-11-20-33-30-audio.m4a.wav|Listen then touch the card!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript471ad229-22fc-4877-bfd8-a7b40d94f6432018-09-11-20-20-06-audio.m4a.wav|What is this?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7fde3b04-9fa2-4c0b-a143-fec7539fda7d2018-08-26-13-40-54-audio.m4a.wav|woof
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript22b00db2-dffc-4a5c-a091-d9b7841c36502018-08-23-20-23-23-audio.m4a.wav|jacket
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8edf9fe0-e006-4553-8315-1b1e501a970a2019-01-11-15-35-16-audio.m4a.wav|firefighter
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9f361551-9239-4197-a185-9a8a206100422019-01-11-16-01-25-audio.m4a.wav|piano
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptea9456cb-7b0f-4070-93a1-3a71652f31692018-11-20-13-21-30-audio.m4a.wav|How are you?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte5bebc46-dac1-4b16-8c87-02199dfaf2232019-01-11-15-43-47-audio.m4a.wav|purple
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2caf67d0-ce72-464a-80ef-d215af8328562019-01-22-10-55-13-audio.m4a.wav|We ate eighteen pies!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript7f8f9bf6-172f-4fd4-9186-ee86ede39d292018-09-11-20-47-19-audio.m4a.wav|Hooray! You did it!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript155c4299-e18d-4a62-a8bb-bd9b167065e72019-02-12-11-20-26-audio.m4a.wav|Five!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb7514456-4c77-431b-a2db-ef4f66f8f9912019-02-12-11-18-32-audio.m4a.wav|Tom likes feeding the penguins.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript072f0730-9e99-43eb-9a55-07ce876de03f2018-08-23-20-38-41-audio.m4a.wav|family
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript45ba766e-ac0b-4d28-917a-5522495a762a2019-01-11-15-26-23-audio.m4a.wav|taxi
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript59be6da4-7e4b-4d7b-88ad-19859b9baeb62018-08-26-13-24-42-audio.m4a.wav|ball
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript158d3da1-9ee1-429f-93a9-57b9ecd918c72019-01-16-14-37-36-audio.m4a.wav|cicada
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript47e3d27c-c1e8-446f-8548-6cc7515e892a2019-01-16-13-24-27-audio.m4a.wav|bookcase
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript42b78f50-228a-419e-b105-48666a1ea2362018-09-02-13-44-00-audio.m4a_truncated.wav|Scott
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript786a440a-6492-4307-84e9-790b5b785ab32019-01-16-14-49-52-audio.m4a.wav|Bee
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta89cb6d3-909c-44b0-b8c3-51b21df457d32019-01-11-15-03-49-audio.m4a.wav|mirror
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript05418e17-ef31-4190-9fb1-0f62607b2abd2019-01-11-16-10-50-audio.m4a.wav|joey
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf7f645aa-2917-4a42-916e-76e602d55def2019-01-16-14-08-53-audio.m4a.wav|soar
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8be27583-7067-4ae5-b690-1d730b95b1102018-09-02-14-20-28-audio.m4a.wav|Mary
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript44fd12d7-e0d4-4c0b-8435-72b8b75800c42019-01-11-16-01-53-audio.m4a.wav|drum
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4f21bb36-8d4f-4457-b4c4-68b887ba74cd2018-11-20-13-53-00-audio.m4a.wav|Hooray for body parts!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript69e29903-a78d-4892-b3fb-275205da21b32019-01-11-14-36-49-audio.m4a.wav|thin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4f875cef-3dd3-4213-bbe1-6c33fb0f7e0e2018-11-20-14-29-59-audio.m4a.wav|fourteen
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd231511f-072b-4427-a708-81ac447968a72018-09-02-14-13-34-audio.m4a.wav|Are you still there? I cannot see you!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta0d45666-5bca-4b72-9fae-095a3ad24c0b2019-01-22-11-58-35-audio.m4a.wav|These slippers are itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb5e20be6-32b8-4b2d-aff7-ad42c2f29b5a2019-02-12-10-18-27-audio.m4a.wav|I can use a screwdriver.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte4f9d9ba-c279-4c0b-a483-04e7424f67312019-01-22-11-59-00-audio.m4a.wav|These pants are itchy.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptefec9858-25ce-406a-bd57-d825a149d3162019-01-11-14-05-50-audio.m4a.wav|floor
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptaa8fbf80-c30d-450e-95b6-6f9a3b4982162019-03-12-15-29-43-audio.m4a.wav|Tom hates the bumper cars.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptabae2192-45da-4501-ac09-314308c6752f2019-01-16-15-09-49-audio.m4a.wav|I -written by E.H. Clark, illustrated by Poky Wu
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript12dc3897-66db-402d-b67f-a7fe446c7ec62019-02-12-11-19-43-audio.m4a.wav|Eggs.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte1572599-c4f0-4bd5-be9f-85aef85003ee2018-08-26-13-25-30-audio.m4a.wav|blocks
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript195ba23d-ece7-4337-bdf4-15e29ee76ad42018-11-20-13-35-41-audio.m4a.wav|Let's continue to learn some numbers.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript11bccc1d-3a49-4cb0-b987-30215cff4f432018-09-11-21-32-06-audio.m4a.wav|This zebra is far away. (slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript1930981d-4687-4c76-a2ca-2e112e6652fe2018-11-20-14-26-08-audio.m4a.wav|Minute
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript525155cc-309f-48a1-90b8-3fd1f828fcfe2019-01-11-15-49-28-audio.m4a.wav|basketball
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd5d2484b-ffe2-4e1d-8bfc-c0e15d93619e2018-08-26-14-58-12-audio.m4a.wav|windy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptfc08695d-a3c6-4cc1-9fce-8b4e3881f5352018-11-20-14-03-31-audio.m4a.wav|Vocabulary review class!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript20c8e63f-7138-4f58-9769-a83326097b6d2018-08-23-21-09-34-audio.m4a.wav|sandbox
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript14c7d337-89f5-46d2-90c7-29a6991c27142018-11-20-13-54-53-audio.m4a.wav|More actions!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf92f249f-8276-4d91-8c69-ef88e5997b9d2019-01-16-14-34-45-audio.m4a.wav|fawn
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5d2bbf4a-ad8a-4ac7-b764-2b13759db3432019-01-22-12-11-29-audio.m4a.wav|My food tastes bad.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3a7aba79-0565-45be-b1c4-2aa0b7a3d3e92019-01-11-14-38-48-audio.m4a.wav|bakery
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptceccd0fe-522d-41ec-ba21-5931eb8b575f2019-03-12-15-29-48-audio.m4a.wav|Tim loves the bumper cars.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd5200096-e85b-4eab-9820-fb588ae3dd5c2019-01-22-10-59-26-audio.m4a.wav|Hello!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript57513691-3bfe-4a69-8325-2d6838b78a422018-09-02-13-46-25-audio.m4a.wav|Vince
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript40de24a9-1f84-4a0b-8864-45ff03d5607a2018-08-26-13-31-57-audio.m4a.wav|truck
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd71726db-943f-44aa-bd47-5090be231fbc2018-08-23-20-59-50-audio.m4a.wav|one
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript62c21be9-ca46-4ed8-9efe-2540deb085fb2019-01-11-13-44-03-audio.m4a.wav|Let's learn some words about things in the house!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta780b1fd-60ca-486d-adf9-4f76330d2c492018-09-02-14-11-09-audio.m4a.wav|You have a great smile! Can I see it again?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript83b8fc99-a319-4986-bb0c-34a7233eb5812018-09-02-13-21-43-audio.m4a.wav|Mariana
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8059a6a7-4209-463a-b18e-e832cd3443a22018-11-20-13-40-25-audio.m4a.wav|Words review!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb5f34261-3c50-4eca-994b-d83898b318672018-09-02-13-36-29-audio.m4a.wav|Justin
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript75137434-39ec-437a-a3f2-5370e64b08f12018-08-23-20-16-52-audio.m4a.wav|leg
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript3b16041c-658b-457d-ace1-3f8ad0e479092019-01-16-13-26-08-audio.m4a.wav|pee
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript521805f1-5f2f-4d28-b97c-84252bfb17492018-11-20-14-32-12-audio.m4a.wav|worm
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf0b6f268-46f4-4a8c-9b5e-e88ec984f2172018-08-26-13-52-56-audio.m4a.wav|toothbrush
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2f015143-0713-4556-b987-0c45e6e7ca032018-09-11-20-59-28-audio.m4a.wav|Let's echo read! I will read. You repeat after me.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript41a181c7-9b64-4590-a0d7-cfe93a517ddb2018-11-20-14-18-25-audio.m4a.wav|Well. Not quite
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd698e7c6-5948-4dc8-99c4-4206340465ed2019-01-16-13-37-22-audio.m4a.wav|dive
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9219ad5a-c866-4084-9e01-82e8795058a42018-08-26-13-37-20-audio.m4a.wav|deer
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb2b00227-d370-4829-b3f5-4731753aa8342018-09-02-14-13-52-audio.m4a.wav|Where are you? I can’t see you anymore!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript4ad37325-ae9c-4c55-bc6b-f8f255704f2c2018-09-11-20-40-02-audio.m4a.wav|Keep going!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptea84ac23-6268-4805-8a17-b90a682fbb692018-09-02-13-38-59-audio.m4a.wav|Nathan
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript853e669b-b1e0-4c22-9c73-406378202f462018-06-24-15-12-14-audio.m4a.wav|Hey, what a great job!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte9c8f36b-daf4-44b9-bff3-d6b8c43e36d12019-01-22-10-57-52-audio.m4a.wav|Bye! Take care!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript084744be-df18-4196-be37-fca3a68b64442019-01-22-10-13-21-audio.m4a.wav|I use a fork to eat noodles.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript377d1e94-bbb3-454e-9c89-dae3e938d5f12018-09-02-13-52-11-audio.m4a.wav|can
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptdd141f34-a41e-48b4-9056-a77bb69c28df2019-01-22-09-56-36-audio.m4a.wav|Jen goes up. Ben goes down?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript979dd402-5982-4cef-9e6a-39ba36e6d63c2018-11-20-14-24-36-audio.m4a.wav|glasses
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9107a882-df2f-4aec-b366-0f94a622b7892018-09-11-20-22-44-audio.m4a.wav|Superhero start!!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripte8b2955e-5dd9-4b69-a4c3-f5d2e3843d2d2019-01-16-14-36-16-audio.m4a.wav|neigh
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript6ec3d459-0115-4dac-8c74-c265618bdcd32018-09-11-21-24-34-audio.m4a.wav|This poodle likes to bark at other dogs. (slow)
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript70bff134-f1a5-40d3-8464-05cca1a03fcc2018-09-02-13-38-50-audio.m4a_truncated.wav|Mathew
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript87345aaf-e173-4b79-b459-bc0fa2b893ee2018-08-23-20-33-07-audio.m4a.wav|spoon
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2985993a-9780-4d2c-9ce9-dbe9f3fb2b662018-08-26-15-19-38-audio.m4a.wav|love
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript190655dd-e5ea-414d-a206-b1d9465399012018-08-23-20-11-21-audio.m4a.wav|bath
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript14210000-05a4-4bb5-8b9d-40cd5e41b7fa2018-09-02-13-33-31-audio.m4a.wav|Guzman
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript06f5b677-afe8-4411-9287-651667c8782d2018-08-23-20-08-38-audio.m4a.wav|toilet paper
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf8086507-05ce-44c6-a4bc-78ae56d20eea2019-01-16-14-48-53-audio.m4a.wav|Alpaca
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb317dde0-df67-43ca-8f20-0860fbb62a6f2019-01-16-13-24-57-audio.m4a.wav|roar
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbc13957d-71c5-4188-a9ff-1fff9e4960812019-01-11-14-00-03-audio.m4a.wav|pie
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript07bd3b33-7643-48e0-9cd8-452af90dbaa52018-08-26-15-14-31-audio.m4a.wav|close
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptee9ab350-a652-430c-a8d7-3ef2cd6f0d352019-01-16-13-57-51-audio.m4a.wav|blink
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptc68ec9e2-2ba0-4066-ac5c-81f0d2f739842019-01-16-14-11-01-audio.m4a.wav|jumpy
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript51d938c5-6fb3-48d2-beda-0c96e699fb822019-01-11-13-38-25-audio.m4a.wav|Do you like my shirt?
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf6d9b8c0-8458-4347-b178-882d14e841712019-01-16-15-12-19-audio.m4a.wav|M -written by E.H. Clark, illustrated by Poky Wu
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript0b5b7bad-e31c-41b8-b3ec-ee3874eb940c2019-01-16-13-37-53-audio.m4a.wav|shout
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript2734479c-6a73-4e42-ad29-9c39318b83932018-08-23-19-41-26-audio.m4a.wav|Amazing! I hope you had fun!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript234a67ac-d7db-45ad-ad7c-ad53cba4fc222018-08-23-20-21-08-audio.m4a.wav|mouth
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptcffcfb2a-19e3-4ee1-9786-f4e4e14b24c82019-01-11-14-18-50-audio.m4a.wav|March
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript41e6964e-47d3-43c4-87da-ba2fa196931f2019-01-16-13-25-32-audio.m4a.wav|squeak
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf9c11d37-c3f4-4972-be99-5f0615ffd19b2019-01-16-15-32-28-audio.m4a.wav|Yacht
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptce975c81-b02d-4053-9575-8467abd792532018-08-26-13-27-58-audio.m4a.wav|boat
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript926fd22c-6f88-4fda-842c-8d6570ec47242019-01-16-13-57-46-audio.m4a.wav|blink
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptb40330ab-e636-45fe-86e0-2d531bfab48d2019-01-22-11-36-27-audio.m4a.wav|My baby brother cries a lot!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript8d8bf3cf-537a-42b5-9f72-969399cf092e2018-08-26-14-38-06-audio.m4a.wav|fireman
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript5bc7d15b-12c4-4f25-afe1-41861ea1c9552018-09-02-13-24-40-audio.m4a.wav|Susan
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript51e74477-2da6-48f7-b97d-32793bb676ee2019-01-22-10-38-09-audio.m4a.wav|My father fixes. My mother fixes.
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptd8bd1e5b-f23e-4765-b70b-81217c9ee6e12018-08-26-15-47-25-audio.m4a.wav|a lot
+/home/gaoxiao/code/ai_utils/tts_data/output/transcripta82439be-16bc-441b-b0a8-0ac4873069032019-01-11-14-51-58-audio.m4a.wav|smoke
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript595d3cb7-f348-41a0-a4c5-b625a36253172019-01-11-16-10-18-audio.m4a.wav|trunk
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptbb3e08b4-2879-4794-8f78-7b79e7f190d02019-01-22-11-41-30-audio.m4a.wav|Add some blue. Blueberry!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcript9bc9e8ea-ca07-4a58-96ba-89fc164812a72018-11-20-13-47-13-audio.m4a.wav|Yummy treats!
+/home/gaoxiao/code/ai_utils/tts_data/output/transcriptf19d50c5-e0fa-43bf-bd63-221ee4eeb5992019-01-11-15-20-46-audio.m4a.wav|bedtime
