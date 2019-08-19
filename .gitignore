@@ -2,3 +2,9 @@ output/
 outdir/
 ljs_dataset_folder/
 logs/
+.idea/
+*.pt
+.python-version
+apex/
+
+__pycache__
