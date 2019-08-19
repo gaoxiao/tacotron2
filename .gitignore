@@ -8,3 +8,4 @@ logs/
 apex/
 
 __pycache__
+waveglow/checkpoints
