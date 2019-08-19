@@ -2,8 +2,12 @@ import os
 from random import shuffle
 
 
+def process_text(text):
+    return text.replace('--s', '').strip()
+
+
 def main():
-    orig_path = '/home/gaoxiao/code/ai_utils/tts_data/downloaded_Sam_transcripts.txt'
+    orig_path = '/home/xiao/code/ai_utils/tts_data/downsampled_Sam_transcripts.txt'
     if not os.path.isfile(orig_path):
         print('File not found: {}, skipping'.format(orig_path))
         return
@@ -13,8 +17,11 @@ def main():
         for l in f:
             try:
                 text, path = l.split('|')
-                to_calculate.append(
-                    '|'.join(('/home/gaoxiao/code/ai_utils/tts_data/{}'.format(path.strip()), text.strip())))
+                text = process_text(text)
+                path = '/home/xiao/code/ai_utils/tts_data/{}'.format(path.strip())
+                if len(text.split()) > 20:
+                    continue
+                to_calculate.append('|'.join((path, text)))
             except Exception:
                 print('Error format: {}'.format(l))
 

@@ -24,14 +24,14 @@ def plot_data(data, figsize=(16, 4)):
 
 
 hparams = create_hparams()
-hparams.sampling_rate = 22050
+hparams.sampling_rate = 8000
 
-checkpoint_path = "tacotron2_statedict.pt"
+checkpoint_path = "outdir/checkpoint_8800"
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 _ = model.cuda().eval().half()
 
-waveglow_path = 'waveglow_256channels.pt'
+waveglow_path = 'waveglow/checkpoints/waveglow_40000'
 waveglow = torch.load(waveglow_path)['model']
 waveglow.cuda().eval().half()
 for k in waveglow.convinv:

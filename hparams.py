@@ -10,7 +10,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Experiment Parameters        #
         ################################
         epochs=500,
-        iters_per_checkpoint=1000,
+        iters_per_checkpoint=200,
+        # iters_per_checkpoint=1000,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
@@ -25,18 +26,18 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/ljs_audio_text_train_filelist.txt',
-        validation_files='filelists/ljs_audio_text_val_filelist.txt',
-        # training_files='tools/train.txt',
-        # validation_files='tools/test.txt',
+        # training_files='filelists/ljs_audio_text_train_filelist.txt',
+        # validation_files='filelists/ljs_audio_text_val_filelist.txt',
+        training_files='tools/train.txt',
+        validation_files='tools/test.txt',
         text_cleaners=['english_cleaners'],
 
         ################################
         # Audio Parameters             #
         ################################
         max_wav_value=32768.0,
-        # sampling_rate=48000,
-        sampling_rate=22050,
+        sampling_rate=8000,
+        # sampling_rate=22050,
         filter_length=1024,
         hop_length=256,
         win_length=1024,
@@ -84,8 +85,8 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        # batch_size=16,
         batch_size=32,
+        # batch_size=32,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
