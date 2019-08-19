@@ -1,0 +1,10 @@
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptffd2c3ab-798d-4e76-9916-dc4ce15d98f52018-09-02-13-22-17-audio.m4a_truncated.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptffd5a7d7-3315-4b1a-9993-3780a3a6020e2018-08-26-14-35-15-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptffe0f454-f746-49b8-a141-79b9617c138d2018-08-23-20-23-17-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptffe125d5-0089-4207-9029-66b818adce582018-11-20-14-25-53-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptffe20b4b-fcaa-4760-8bd4-44499b7d0a232019-01-16-13-58-03-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptffe4a266-ae14-4810-a8b3-640cf866cc012018-08-26-14-36-01-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptfff0ac59-ee21-4d35-acf0-844ecd32d5ca2019-01-22-12-15-30-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptfff3c7f1-cb1d-4665-a760-64634ca823912019-01-11-13-42-48-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptfff955db-f2ff-453c-9eba-16b82f32bf782019-01-22-10-08-09-audio.m4a.wav
+/home/xiao/code/ai_utils/tts_data/downsample_output/transcriptfffff302-5cc3-415c-b276-a238974eb5562019-01-11-14-47-41-audio.m4a.wav
