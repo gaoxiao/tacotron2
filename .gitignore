@@ -6,6 +6,7 @@ logs/
 *.pt
 .python-version
 apex/
+*.wav
 
 __pycache__
 waveglow/checkpoints
