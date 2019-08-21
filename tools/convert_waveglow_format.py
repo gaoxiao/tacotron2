@@ -7,7 +7,7 @@ def process_text(text):
 
 
 def main():
-    orig_path = '/home/xiao/code/ai_utils/tts_data/downsampled_Sam_transcripts.txt'
+    orig_path = '/home/gaoxiao/code/ai_utils/tts_data/downsampled_Siobhan_transcripts.txt'
     if not os.path.isfile(orig_path):
         print('File not found: {}, skipping'.format(orig_path))
         return
@@ -18,7 +18,7 @@ def main():
             try:
                 text, path = l.split('|')
                 text = process_text(text)
-                path = '/home/xiao/code/ai_utils/tts_data/{}'.format(path.strip())
+                path = '/home/gaoxiao/code/ai_utils/tts_data/{}'.format(path.strip())
                 if len(text.split()) > 20:
                     continue
                 to_calculate.append(path)

@@ -1,1 +1,0 @@
-../ljs_dataset_folder/wavs/LJ014-0083.wav
