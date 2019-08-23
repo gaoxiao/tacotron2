@@ -10,8 +10,8 @@ def create_hparams(hparams_string=None, verbose=False):
         # Experiment Parameters        #
         ################################
         epochs=500,
-        iters_per_checkpoint=200,
-        # iters_per_checkpoint=200,
+        iters_per_checkpoint=500,
+        # iters_per_checkpoint=1000,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
@@ -36,8 +36,7 @@ def create_hparams(hparams_string=None, verbose=False):
         # Audio Parameters             #
         ################################
         max_wav_value=32768.0,
-        sampling_rate=8000,
-        # sampling_rate=22050,
+        sampling_rate=22050,
         filter_length=1024,
         hop_length=256,
         win_length=1024,

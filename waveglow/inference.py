@@ -64,7 +64,7 @@ if __name__ == "__main__":
                         help='Path to waveglow decoder checkpoint with model')
     parser.add_argument('-o', "--output_dir", required=True)
     parser.add_argument("-s", "--sigma", default=1.0, type=float)
-    parser.add_argument("--sampling_rate", default=8000, type=int)
+    parser.add_argument("--sampling_rate", default=22050, type=int)
     parser.add_argument("--is_fp16", action="store_true")
 
     args = parser.parse_args()
