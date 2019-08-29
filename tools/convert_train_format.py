@@ -32,6 +32,9 @@ def main():
                 text, path = l.split('|')
                 text = process_text(text)
                 path = '/home/gaoxiao/code/ai_utils/tts_data/{}'.format(path.strip())
+                if not os.path.isfile(path):
+                    print('file not found: {}'.format(path))
+                    continue
                 if len(text.split()) > 20:
                     continue
                 to_calculate.append('|'.join((path, text)))
