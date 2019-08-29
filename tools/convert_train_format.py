@@ -20,7 +20,7 @@ def process_text(text):
 
 
 def main():
-    orig_path = '/home/xiao/code/ai_utils/tts_data/downsampled_Sam_transcripts.txt'
+    orig_path = '/home/gaoxiao/code/ai_utils/tts_data/downsampled_Siobhan_transcripts.txt'
     if not os.path.isfile(orig_path):
         print('File not found: {}, skipping'.format(orig_path))
         return
