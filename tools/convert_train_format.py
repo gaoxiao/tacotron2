@@ -1,9 +1,11 @@
 import os
+import string
 from random import shuffle
 
 
 def process_text(text):
     text = text.replace('--s', '')
+    text = text.replace('-', ',')
     while True:
         start = text.find('(')
         end = text.find(')')
@@ -11,11 +13,14 @@ def process_text(text):
             text = text[:start] + text[end + 1:]
         else:
             break
+    text = text.strip()
+    if text[-1] not in string.punctuation:
+        text = text + '.'
     return text
 
 
 def main():
-    orig_path = '/home/gaoxiao/code/ai_utils/tts_data/downsampled_Siobhan_transcripts.txt'
+    orig_path = '/home/xiao/code/ai_utils/tts_data/downsampled_Sam_transcripts.txt'
     if not os.path.isfile(orig_path):
         print('File not found: {}, skipping'.format(orig_path))
         return
