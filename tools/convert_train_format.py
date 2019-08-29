@@ -3,7 +3,15 @@ from random import shuffle
 
 
 def process_text(text):
-    return text.replace('--s', '').strip()
+    text = text.replace('--s', '')
+    while True:
+        start = text.find('(')
+        end = text.find(')')
+        if start != -1 and end != -1:
+            text = text[:start] + text[end + 1:]
+        else:
+            break
+    return text
 
 
 def main():
@@ -22,8 +30,9 @@ def main():
                 if len(text.split()) > 20:
                     continue
                 to_calculate.append('|'.join((path, text)))
-            except Exception:
+            except Exception as e:
                 print('Error format: {}'.format(l))
+                print(e)
 
     size = len(to_calculate)
     shuffle(to_calculate)

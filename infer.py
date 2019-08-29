@@ -24,14 +24,15 @@ def plot_data(data, figsize=(16, 4)):
 
 
 hparams = create_hparams()
-hparams.sampling_rate = 8000
+# hparams.sampling_rate = 22050
 
-checkpoint_path = "outdir/checkpoint_8800"
+checkpoint_path = "outdir/saved_166000"
+
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 _ = model.cuda().eval().half()
 
-waveglow_path = 'waveglow/checkpoints/waveglow_40000'
+waveglow_path = 'waveglow/checkpoints1/saved_214000'
 waveglow = torch.load(waveglow_path)['model']
 waveglow.cuda().eval().half()
 for k in waveglow.convinv:
@@ -42,19 +43,20 @@ for k in waveglow.convinv:
 # sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
 
 text_list = [
-    "Join me to learn some words.",
-    "Tom likes drums",
-    "Tom does not like kites",
-    "Now you try!",
-    "Wow, you matched all of the words!",
-    "Great work reading those words!",
-    "It's time for some vocabulary!",
-    "Hi, Andrew here!",
-    "Let's review what you said",
-    "baseball",
-    "Sorry. I did not hear you. Could you say it louder?",
-    "Hello, Red Beetle",
-    "HIllary and Henry are hiding in their school. Can you find them?",
+    'lion',
+    # "Join me to learn some words.",
+    # "Tom likes drums",
+    # "Tom does not like kites",
+    # "Now you try!",
+    # "Wow, you matched all of the words!",
+    # "Great work reading those words!",
+    # "It's time for some vocabulary!",
+    # "Hi, Andrew here!",
+    # "Let's review what you said",
+    # "baseball",
+    # "Sorry. I did not hear you. Could you say it louder?",
+    # "Hello, Red Beetle",
+    # "HIllary and Henry are hiding in their school. Can you find them?",
 ]
 for text in text_list:
     start_time = time.time()
@@ -72,4 +74,4 @@ for text in text_list:
     print("--- waveglow %s seconds ---" % (time.time() - start_time))
 
     data = audio[0].data.cpu().numpy().astype(np.float32)
-    scipy.io.wavfile.write('output/{}.wav'.format(text), hparams.sampling_rate, data)
+    scipy.io.wavfile.write('audio_output/{}.wav'.format(text), hparams.sampling_rate, data)
