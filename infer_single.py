@@ -25,22 +25,24 @@ def plot_data(data, figsize=(16, 4)):
 
 hparams = create_hparams()
 hparams.sampling_rate = 22050
+# hparams.gate_threshold = 0.1
 
-checkpoint_path = "tacotron2_statedict.pt"
-# checkpoint_path = "outdir/saved_166000"
+# checkpoint_path = "tacotron2_statedict.pt"
+checkpoint_path = "outdir/checkpoint_38000"
+# checkpoint_path = "outdir_self_data/saved_170000"
 
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
 _ = model.cuda().eval().half()
 
-# waveglow_path = 'waveglow_256channels.pt'
-waveglow_path = 'waveglow/checkpoints1/saved_214000'
+waveglow_path = 'waveglow_256channels.pt'
+# waveglow_path = 'waveglow/checkpoints1/saved_356000'
 waveglow = torch.load(waveglow_path)['model']
 waveglow.cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
 
-text = "How are you today?"
+text = "Today."
 sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
 sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
 
