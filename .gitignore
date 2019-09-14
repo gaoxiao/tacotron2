@@ -10,3 +10,4 @@ apex/
 
 __pycache__
 waveglow/checkpoints
+cn/*

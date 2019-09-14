@@ -27,9 +27,10 @@ hparams = create_hparams()
 hparams.sampling_rate = 22050
 # hparams.gate_threshold = 0.1
 
-# checkpoint_path = "tacotron2_statedict.pt"
-checkpoint_path = "outdir/checkpoint_38000"
-# checkpoint_path = "outdir_self_data/saved_170000"
+#checkpoint_path = "tacotron2_statedict.pt"
+#checkpoint_path = "outdir/saved_50000"
+checkpoint_path = "outdir/saved_122000"
+#checkpoint_path = "outdir_self_data/saved_170000"
 
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
@@ -42,7 +43,7 @@ waveglow.cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
 
-text = "Today."
+text = 'Nice to meet you!'
 sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
 sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
 
@@ -58,4 +59,4 @@ mel_outputs, mel_outputs_postnet, _, alignments = model.inference(sequence)
 with torch.no_grad():
     audio = waveglow.infer(mel_outputs_postnet, sigma=0.666)
 data = audio[0].data.cpu().numpy().astype(np.float32)
-scipy.io.wavfile.write('{}.wav'.format('test'), hparams.sampling_rate, data)
+scipy.io.wavfile.write('audio_output/{}.wav'.format(text), hparams.sampling_rate, data)
