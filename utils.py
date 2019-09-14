@@ -3,8 +3,10 @@ from scipy.io.wavfile import read
 import torch
 
 
-def get_mask_from_lengths(lengths):
+def get_mask_from_lengths(lengths, total_length=None):
     max_len = torch.max(lengths).item()
+    if total_length:
+        max_len = total_length
     ids = torch.arange(0, max_len, out=torch.cuda.LongTensor(max_len))
     mask = (ids < lengths.unsqueeze(1)).byte()
     return mask

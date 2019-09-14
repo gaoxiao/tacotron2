@@ -175,7 +175,7 @@ class Encoder(nn.Module):
             x = F.dropout(F.relu(conv(x)), 0.5, self.training)
 
         x = x.transpose(1, 2)
-
+        total_length = x.size(1)
         # pytorch tensor are not reversible, hence the conversion
         input_lengths = input_lengths.cpu().numpy()
         x = nn.utils.rnn.pack_padded_sequence(
@@ -185,7 +185,7 @@ class Encoder(nn.Module):
         outputs, _ = self.lstm(x)
 
         outputs, _ = nn.utils.rnn.pad_packed_sequence(
-            outputs, batch_first=True)
+            outputs, batch_first=True, total_length=total_length)
 
         return outputs
 
@@ -398,8 +398,9 @@ class Decoder(nn.Module):
         decoder_inputs = torch.cat((decoder_input, decoder_inputs), dim=0)
         decoder_inputs = self.prenet(decoder_inputs)
 
+        total_length = memory.size(1)
         self.initialize_decoder_states(
-            memory, mask=~get_mask_from_lengths(memory_lengths))
+            memory, mask=~get_mask_from_lengths(memory_lengths, total_length))
 
         mel_outputs, gate_outputs, alignments = [], [], []
         while len(mel_outputs) < decoder_inputs.size(0) - 1:
@@ -469,6 +470,10 @@ class Tacotron2(nn.Module):
         self.encoder = Encoder(hparams)
         self.decoder = Decoder(hparams)
         self.postnet = Postnet(hparams)
+
+        self.encoder = nn.DataParallel(self.encoder)
+        self.decoder = nn.DataParallel(self.decoder)
+        self.postnet = nn.DataParallel(self.postnet)
 
     def parse_batch(self, batch):
         text_padded, input_lengths, mel_padded, gate_padded, \
