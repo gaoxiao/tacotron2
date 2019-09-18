@@ -27,9 +27,9 @@ hparams = create_hparams()
 hparams.sampling_rate = 22050
 # hparams.gate_threshold = 0.1
 
-#checkpoint_path = "tacotron2_statedict.pt"
-#checkpoint_path = "outdir/saved_50000"
-checkpoint_path = "outdir/saved_122000"
+checkpoint_path = "tacotron2_statedict.pt"
+# checkpoint_path = "outdir/checkpoint_12500"
+# checkpoint_path = "outdir/saved_10000"
 #checkpoint_path = "outdir_self_data/saved_170000"
 
 model = load_model(hparams)
@@ -43,7 +43,7 @@ waveglow.cuda().eval().half()
 for k in waveglow.convinv:
     k.float()
 
-text = 'Nice to meet you!'
+text = 'Littlelights is awesome!'
 sequence = np.array(text_to_sequence(text, ['english_cleaners']))[None, :]
 sequence = torch.autograd.Variable(torch.from_numpy(sequence)).cuda().long()
 

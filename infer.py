@@ -26,7 +26,7 @@ def plot_data(data, figsize=(16, 4)):
 hparams = create_hparams()
 # hparams.sampling_rate = 22050
 
-checkpoint_path = "outdir/saved_122000"
+checkpoint_path = "outdir/checkpoint_25500"
 
 model = load_model(hparams)
 model.load_state_dict(torch.load(checkpoint_path)['state_dict'])
@@ -46,18 +46,18 @@ for k in waveglow.convinv:
 text_list = [
     'lion.',
     "Join me to learn some words.",
-    # "Tom likes drums",
-    # "Tom does not like kites",
-    # "Now you try!",
-    # "Wow, you matched all of the words!",
-    # "Great work reading those words!",
-    # "It's time for some vocabulary!",
-    # "Hi, Andrew here!",
-    # "Let's review what you said",
-    # "baseball",
-    # "Sorry. I did not hear you. Could you say it louder?",
-    # "Hello, Red Beetle",
-    # "HIllary and Henry are hiding in their school. Can you find them?",
+    "Tom likes drums",
+    "Tom does not like kites",
+    "Now you try!",
+    "Wow, you matched all of the words!",
+    "Great work reading those words!",
+    "It's time for some vocabulary!",
+    "Hi, Andrew here!",
+    "Let's review what you said",
+    "baseball",
+    "Sorry. I did not hear you. Could you say it louder?",
+    "Hello, Red Beetle",
+    "HIllary and Henry are hiding in their school. Can you find them?",
 ]
 for text in text_list:
     start_time = time.time()

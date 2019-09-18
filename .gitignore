@@ -1,5 +1,6 @@
 output/
 outdir/
+outdir*/
 ljs_dataset_folder/
 logs/
 .idea/

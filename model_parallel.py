@@ -184,9 +184,9 @@ class Encoder(nn.Module):
         self.lstm.flatten_parameters()
         outputs, _ = self.lstm(x)
 
-        # outputs, _ = nn.utils.rnn.pad_packed_sequence(
-        #     outputs, batch_first=True, total_length=total_length)
-        outputs, _ = nn.utils.rnn.pad_packed_sequence(outputs, batch_first=True)
+        outputs, _ = nn.utils.rnn.pad_packed_sequence(
+            outputs, batch_first=True, total_length=total_length)
+        # outputs, _ = nn.utils.rnn.pad_packed_sequence(outputs, batch_first=True)
 
         return outputs
 
@@ -400,10 +400,10 @@ class Decoder(nn.Module):
         decoder_inputs = self.prenet(decoder_inputs)
 
         # For parallel
-        # total_length = memory.size(1)
-        # self.initialize_decoder_states(
-        #     memory, mask=~get_mask_from_lengths(memory_lengths, total_length))
-        self.initialize_decoder_states(memory, mask=~get_mask_from_lengths(memory_lengths))
+        total_length = memory.size(1)
+        self.initialize_decoder_states(
+            memory, mask=~get_mask_from_lengths(memory_lengths, total_length))
+        # self.initialize_decoder_states(memory, mask=~get_mask_from_lengths(memory_lengths))
 
         mel_outputs, gate_outputs, alignments = [], [], []
         while len(mel_outputs) < decoder_inputs.size(0) - 1:
@@ -474,9 +474,9 @@ class Tacotron2(nn.Module):
         self.decoder = Decoder(hparams)
         self.postnet = Postnet(hparams)
 
-        # self.encoder = nn.DataParallel(self.encoder)
-        # self.decoder = nn.DataParallel(self.decoder)
-        # self.postnet = nn.DataParallel(self.postnet)
+        self.encoder = nn.DataParallel(self.encoder)
+        self.decoder = nn.DataParallel(self.decoder)
+        self.postnet = nn.DataParallel(self.postnet)
 
     def parse_batch(self, batch):
         text_padded, input_lengths, mel_padded, gate_padded, \
@@ -524,8 +524,8 @@ class Tacotron2(nn.Module):
 
     def inference(self, inputs):
         embedded_inputs = self.embedding(inputs).transpose(1, 2)
-        encoder_outputs = self.encoder.inference(embedded_inputs)
-        mel_outputs, gate_outputs, alignments = self.decoder.inference(
+        encoder_outputs = self.encoder.module.inference(embedded_inputs)
+        mel_outputs, gate_outputs, alignments = self.decoder.module.inference(
             encoder_outputs)
 
         mel_outputs_postnet = self.postnet(mel_outputs)
