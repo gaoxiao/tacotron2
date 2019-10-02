@@ -32,6 +32,8 @@ def gene(data_path, out_file):
     for f in tqdm(paths):
         if not f.endswith('wav'):
             continue
+        if f.startswith('downsampled_'):
+            continue
         audio_path = f
         downsampled = 'downsampled_{}'.format(audio_path)
         audio_path = os.path.join(data_path, audio_path)
@@ -45,7 +47,7 @@ def gene(data_path, out_file):
         with open(text_path, 'r') as text_file:
             text = text_file.readlines()
             text = text[1].strip()
-            data.append('{}|{}\n'.format(downsampled, text))
+            data.append('{}|{}.\n'.format(downsampled, text))
     print('len: {}'.format(len(data)))
     with open(out_file, 'w') as out:
         out.writelines(data)

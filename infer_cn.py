@@ -26,7 +26,7 @@ def plot_data(data, figsize=(16, 4)):
 hparams = create_hparams()
 # hparams.sampling_rate = 22050
 
-checkpoint_path = "outdir/checkpoint_1000"
+checkpoint_path = "outdir/checkpoint_36000"
 # checkpoint_path = "tacotron2_statedict.pt"
 
 model = load_model(hparams)
@@ -59,7 +59,7 @@ text_list = [
     # "Sorry. I did not hear you. Could you say it louder?",
     # "Hello, Red Beetle",
     # "HIllary and Henry are hiding in their school. Can you find them?",
-    'yin1 er2 ta1 de5 yan3 zou4 zhi4 pu3 er2 sa3 tuo1 yin1 se4 ji2 yun4 lv4 ru2 xing2 yun2 liu2 shui3 ban1 shu1 chang4 er2 chun2 mei3'
+    'jin1 tian1 tian1 qi4 bu2 cuo4.'
 ]
 for text in text_list:
     start_time = time.time()
